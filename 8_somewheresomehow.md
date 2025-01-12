@@ -233,7 +233,7 @@ nav-menu: true
     <div class="carousel-container">
         <button type="button" class="carousel-arrow carousel-prev">&lt;</button>
         <div class="carousel">
-            {% for i in (1..26) %}
+            {% for i in (0..26) %}
                 <div>
                     <a href="{{ 'assets/images/swsh' | append: i | append: '.jpeg' | relative_url }}" data-lightbox="image-carousel">
                         <img src="{{ 'assets/images/swsh' | append: i | append: '.jpeg' | relative_url }}" alt="Portrait {{ i }}">
