@@ -32,7 +32,7 @@ nav-menu: true
                     <header class="major">
                         <h3>{% t voting.hub_award.title %}</h3>
                     </header>
-                    <p>{% t voting.hub_award.description %} <a class="vote-link" href="awards.girlslovehub.com/#Vote">{% t common.vote_for_them %}</a></p>
+                    <p>{% t voting.hub_award.description %} <a class="vote-link" href="https://awards.girlslovehub.com/#Vote">{% t voting.hub_award.vote_link %}</a></p>
                     <p>{% t voting.hub_award.notes %} <a class="vote-link" href="https://x.com/FayMayOfficial/status/1877998938378358836">{% t voting.hub_award.notes_link %}</a></p>
                 </div>
             </div>
