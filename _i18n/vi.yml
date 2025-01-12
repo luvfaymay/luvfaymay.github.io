@@ -10,6 +10,7 @@ global:
   series_name: "Em Là Giấc Mơ Diệu Kỳ (ฝันรักห้วงนิทรา)"
   dreamgl: "DreamGL"
   dream_the_series: "Dream The Series"
+  swshgl: "Somewhere Somehow (รักปากแข็ง)"  # new
   idol_factory: "Idol Factory"
 
 # Navigation
@@ -71,7 +72,7 @@ languages:
 # Home page content
 home:
   actress_description: '{fay_name} và {may_name} là hai nữ diễn viên GL Thái Lan, hiện đang hoạt động dưới sự quản lý của công ty {idol_factory}. Tên cặp đôi trên màn ảnh của họ là {couple_name}.'
-  series_description: 'Bộ phim đầu tiên của cả hai với tư cách diễn viên chính là {series_name}, còn được biết đến với tên {dreamgl} hoặc {dream_the_series}.'
+  series_description: 'Bộ phim đầu tiên của cả hai với tư cách diễn viên chính là {series_name}, còn được biết đến với tên {dreamgl} hoặc {dream_the_series}. Hiện tại họ đang quay series thứ hai của mình, {swshgl}. Hãy theo dõi các tài khoản mạng xã hội chính thức của các cô ấy để hiểu thêm về họ.'
 
 # Profile page content
 profile:
@@ -135,10 +136,12 @@ voting:
     title: "Star Focus - 2024 THE MOST BEAUTIFUL FACE IN ASIA PACIFIC"
     description: "Thời gian bỏ phiếu là từ 00:00 ngày 30 tháng 10 năm 2024 theo giờ BKK. Đối với mỗi email, khi đăng nhập lần đầu, bạn có thể nhận 300 vé miễn phí bằng cách tham gia nhà nghệ sĩ Fay&May. Mỗi ngày, một email có thể nhận 6 vé miễn phí: 3 vé miễn phí từ việc đăng nhập hàng ngày và 3 vé miễn phí từ việc chia sẻ trên Twitter. Vé miễn phí sẽ được xóa mỗi thứ Năm lúc 00:00 theo giờ BKK. Vui lòng "
     vote_link: "bình chọn cho họ."
-  yent_award:
-    title: "Y Entertain Awards 2024 - Rising Star Couple of the Year"
-    description: "Thời gian bỏ phiếu là từ 24 tháng 10 đến 30 tháng 11 năm 2024, lúc 00:00 theo giờ BKK. Bạn có thể nhận 2 đồng xu bạc miễn phí từ việc đăng nhập hàng ngày. 1 phiếu bầu cần 10 đồng xu bạc hoặc vàng. Bạn có thể mua đồng xu vàng từ trang web chính thức. Vui lòng "
+  hub_award:   # new
+    title: "HUB AWARDS 2024"
+    description: "Thời gian bình chọn kéo dài đến 9:59 (giờ Bangkok) ngày 1 tháng 2. FayMay Official và FreenBecky_Ranking VN (@fbrankingvn) đang hợp tác cho Hub Awards. Mời bạn bình chọn cho FreenBecky ở hạng mục "Cặp đôi của năm" và FayMay ở hạng mục "Cặp đôi tân binh của năm". Để tham gia, hãy chụp màn hình và bình luận dưới bài đăng của FayMay Official với hashtag HubAwardxFayMayxFreenBecky. Vui lòng "
     vote_link: "bình chọn cho họ."
+    notes: "Vui lòng "
+    notes_link: "kiểm tra bài đăng đầy đủ tại trang chính thức của FayMay tại đây."
   kazz_awards:
     title: "KAZZ AWARDS - Youth Idol of the Year 2024"
     description: "Thời gian bỏ phiếu là từ <strong>23 tháng 9 đến 03 tháng 11 năm 2024, lúc 00:00 theo giờ BKK</strong>. Giải thưởng này rất quan trọng đối với FayMay. 5 nghệ sĩ có số phiếu bầu cao nhất sẽ nhận giải Young Sweetheart of the Year tại KAZZ AWARDS 2025 và cũng sẽ xuất hiện solo trên bìa của KAZZ MAGAZINE. Chúng ta cần cả hai họ nằm trong top 5. Điều này sẽ khó khăn cho chúng ta, nhưng tôi tin rằng chúng ta có thể làm được. Chúng ta phải cố gắng. Quy tắc bỏ phiếu:"
@@ -176,6 +179,8 @@ fan_pages:
     taiwan: "Đài Loan"
     thailand: "Thái Lan"
     vietnam: "Việt Nam"
+    china: "Trung Quốc"  # new
+    japan: "Nhật Bản"  # new
 
 # Fan Creations content
 fan_creations:
@@ -285,8 +290,9 @@ official_events:
   translation_status: "Dịch máy. Đang chờ dịch và hiệu đính bởi các biên dịch viên của chúng tôi."
   description: "Hãy xem các sự kiện chính thức sắp tới và xin vui lòng hỗ trợ FayMay."
   event1:
-    title: "TIFFCOM Event in Japan"
-    description: "FayMay sẽ tham dự sự kiện TIFFCOM tại Nhật Bản từ ngày 28 đến 31 tháng 10 năm 2024."
+    title: "IDOL FACTORY GIRL'S DAY"
+    description: "FreenBecky và FayMay sẽ tổ chức sự kiện fan meeting tại Nhật Bản. Các buổi fan meeting sẽ diễn ra tại Saitama và Osaka. Tại Saitama, sự kiện sẽ được tổ chức tại địa điểm: Sonic City Large Hall vào ngày 2 tháng 3 năm 2025. Tại Osaka, sự kiện sẽ được tổ chức tại địa điểm: Osaka International Exchange Center Large Hall vào ngày 3 tháng 3 năm 2025. Giá vé bắt đầu từ 5.500 yên (đã bao gồm thuế). Vui lòng "
+    event1_link: "truy cập trang web chính thức để biết thêm chi tiết."
 
 # Fan Support Projects content
 fan_projects:
@@ -356,7 +362,7 @@ swsh_series:
   genres: "Genre: Romantic Comedy"
   other_names: "Các tên khác: รักปากแข็ง, SWSHGL"
   follow: "Vui lòng theo dõi tài khoản chính thức của series trên các nền tảng mạng xã hội để cập nhật thêm thông tin và tin tức mới nhất: "
-  suport: "Series này được chuyển thể từ tiểu thuyết 'Somewhere Somehow รักปากแข็ง' của Monmaw. Bản dịch tiếng Anh hiện đang phát hành một tập mỗi ngày, với các chương 1-10 có sẵn miễn phí trên ReadAwrite bắt đầu từ ngày 27 tháng 10. Để hỗ trợ tác giả, xin vui lòng mua thêm các chương trên ReadAwrite hoặc cân nhắc mua phiên bản tiếng Anh khi phát hành. Bạn có thể tìm thấy tiểu thuyết gốc ở đây: "
+  suport: "Series này được chuyển thể từ tiểu thuyết 'Somewhere Somehow รักปากแข็ง' của tác giả Monmaw. Tiểu thuyết gồm hai tập. Tập 1 đã có bản tiếng Anh. Bản dịch tiếng Anh của tập 2 sẽ được phát hành trong tương lai. Bạn có thể mua tiểu thuyết gốc tại đây: "
   main_roles:
     title: "Các diễn viên:"
     description: "Chỉ có các vai chính được công bố tính đến thời điểm hiện tại."

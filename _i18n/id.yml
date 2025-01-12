@@ -10,6 +10,7 @@ global:
   series_name: "My Marvellous Dream is You (ฝันรักห้วงนิทรา)"
   dreamgl: "DreamGL"
   dream_the_series: "Dream The Series"
+  swshgl: "Somewhere Somehow (รักปากแข็ง)"  # new
   idol_factory: "Idol Factory"
 
 # Navigation
@@ -71,7 +72,7 @@ languages:
 # Home page content
 home:
   actress_description: '{fay_name} dan {may_name} adalah aktris GL Thailand di bawah naungan {idol_factory}. Nama panggung mereka saat berpasangan adalah {couple_name}.'
-  series_description: 'Proyek akting pertama mereka sebagai pemeran utama adalah {series_name}, juga dikenal sebagai {dreamgl} atau {dream_the_series}.'
+  series_description: 'Proyek akting pertama mereka sebagai pemeran utama adalah {series_name}, juga dikenal sebagai {dreamgl} atau {dream_the_series}. Mereka sedang merekam serial kedua mereka, {swshgl}. Silakan ikuti media sosial resmi mereka untuk mengenal mereka lebih jauh.'
 
 # Profile page content
 profile:
@@ -135,9 +136,12 @@ voting:
     title: "Star Focus - 2024 THE MOST BEAUTIFUL FACE IN ASIA PACIFIC"
     description: "Periode pemungutan suara adalah dari 30 Oktober 2024 pukul 24:00 Waktu BKK. Untuk setiap email, pada login pertama, Anda dapat mendapatkan 300 tiket gratis dengan bergabung di rumah seniman Fay&May. Setiap hari, satu email dapat mendapatkan 6 tiket gratis: 3 tiket gratis dari login harian dan 3 tiket gratis dari berbagi di Twitter. Tiket gratis akan dihapus setiap Kamis pukul 00:00 Waktu BKK. Silakan "
     vote_link: "berikan suara untuk mereka."
-  yent_award:
-    title: "Periode pemungutan suara adalah dari 24 Oktober hingga 30 November 2024 pukul 24:00 Waktu BKK. Anda dapat mendapatkan 2 koin perak gratis dari login harian. 1 suara membutuhkan 10 koin perak atau emas. Anda dapat membeli koin emas dari situs resmi. Silakan "
+  hub_award:   # new
+    title: "HUB AWARDS 2024"
+    description: "Periode pemungutan suara berlangsung hingga 1 Februari, pukul 09:59 waktu Bangkok. FayMay Official dan FreenBecky_Ranking VN (@fbrankingvn) berkolaborasi untuk Hub Awards. Kami mengajak Anda untuk memilih FreenBecky dalam kategori "Couple of the Year" dan FayMay dalam kategori "Rookie Couple of the Year". Untuk berpartisipasi, silakan ambil tangkapan layar dan berikan komentar di postingan FayMay Official dengan tagar HubAwardxFayMayxFreenBecky. Silakan "
     vote_link: "berikan suara untuk mereka."
+    notes: "Silakan "
+    notes_link: "periksa postingan lengkap dari FayMay Official di sini."
   kazz_awards:
     title: "KAZZ AWARDS - Youth Idol of the Year 2024"
     description: "Periode pemungutan suara adalah dari <strong>23 September hingga 3 November 2024 pukul 24:00 Waktu BKK</strong>. Penghargaan ini penting bagi FayMay. 5 artis dengan suara tertinggi akan menerima penghargaan Young Sweetheart of the Year di KAZZ AWARDS 2025 dan juga akan tampil solo di sampul KAZZ MAGAZINE. Kita perlu keduanya berada di 5 besar. Ini akan sulit bagi kita, tetapi saya percaya kita bisa melakukannya. Kita harus mencoba. Aturan Pemungutan Suara: "
@@ -176,6 +180,8 @@ fan_pages:
     taiwan: "Taiwan"
     thailand: "Thailand"
     vietnam: "Vietnam"
+    china: "China"  # new
+    japan: "Japan"  # new
 
 # Fan Creations content
 fan_creations:
@@ -285,8 +291,9 @@ official_events:
   translation_status: "Diterjemahkan oleh mesin. Menunggu penerjemahan dan penyuntingan oleh penerjemah kami."
   description: "Lihat acara resmi yang akan datang ini, dan mohon dukung FayMay."
   event1:
-    title: "TIFFCOM Event in Japan"
-    description: "FayMay akan menghadiri acara TIFFCOM di Jepang dari 28 hingga 31 Oktober 2024."
+    title: "IDOL FACTORY GIRL'S DAY"
+    description: "FreenBecky & FayMay akan mengadakan acara di Jepang. Fan meeting akan diselenggarakan di Saitama dan Osaka. Untuk Saitama, acara akan diadakan di venue: Sonic City Large Hall pada 2 Maret 2025. Untuk Osaka, acara akan diadakan di venue: Osaka International Exchange Center Large Hall pada 3 Maret 2025. Harga tiket mulai dari 5.500 yen (termasuk pajak). Silakan "
+    event1_link: "periksa situs web resmi untuk informasi lebih lanjut."
 
 # Fan Support Projects content
 fan_projects:
@@ -356,7 +363,7 @@ swsh_series:
   genres: "Genre: Komedi Romantis"
   other_names: "Nama Lain: รักปากแข็ง, SWSHGL"
   follow: "Silakan ikuti akun resmi seri di platform media sosial untuk lebih banyak pembaruan dan berita: "
-  suport: "Serial ini mengadaptasi novel 'Somewhere Somehow รักปากแข็ง' karya Monmaw. Terjemahan bahasa Inggris saat ini merilis satu episode setiap hari, dengan bab 1-10 tersedia gratis di ReadAwrite mulai 27 Oktober. Untuk mendukung penulis, silakan beli bab tambahan di ReadAwrite atau pertimbangkan untuk membeli versi bahasa Inggris setelah dirilis. Anda dapat menemukan novel asli di sini: "
+  suport: "Serial ini mengadaptasi novel 'Somewhere Somehow รักปากแข็ง' karya Monmaw. Novel ini terdiri dari dua volume. Volume 1 tersedia dalam bahasa Inggris. Terjemahan bahasa Inggris untuk Volume 2 akan dirilis di masa mendatang. Anda dapat membeli novel aslinya di sini: "
   main_roles:
     title: "Peran utama:"
     description: "Hanya peran utama yang diumumkan hingga saat ini."

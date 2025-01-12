@@ -10,6 +10,7 @@ global:
   series_name: "My Marvellous Dream is You (ฝันรักห้วงนิทรา)"
   dreamgl: "DreamGL"
   dream_the_series: "Dream The Series"
+  swshgl: "Somewhere Somehow (รักปากแข็ง)"  # new
   idol_factory: "Idol Factory"
 
 # Navigation
@@ -71,7 +72,7 @@ languages:
 # Home page content
 home:
   actress_description: '{fay_name} y {may_name} son actrices tailandesas GL bajo {idol_factory}. Su nombre de pareja en pantalla es {couple_name}.'
-  series_description: 'Su primer proyecto de actuación como actrices principales es {series_name}, también conocido como {dreamgl} o {dream_the_series}.'
+  series_description: 'Su primer proyecto de actuación como actrices principales es {series_name}, también conocido como {dreamgl} o {dream_the_series}. Actualmente ellas están filmando su segunda serie, {swshgl}. Síguelas en sus redes sociales oficiales para conocerlas mejor.'
 
 # Profile page content
 profile:
@@ -137,10 +138,12 @@ voting:
     description: "El período de votación es desde el 30 de octubre de 2024 a las 24:00 hora de Bangkok. Por cada correo electrónico, en el primer inicio de sesión, puedes obtener 300 boletos gratis al unirte a la casa de artistas Fay&May. Diariamente, un correo electrónico puede obtener 6 boletos gratis: 3 boletos gratis por el inicio de sesión diario y 3 boletos gratis por compartir en Twitter. Los boletos gratis se borrarán todos los jueves a las 00:00 hora de Bangkok. Por favor"
     vote_link: "vota por ellas"
   
-  yent_award:
-    title: "Y Entertain Awards 2024 - Rising Star Couple of the Year"
-    description: "El período de votación es desde el 24 de octubre hasta el 30 de noviembre de 2024 a las 24:00 hora de Bangkok. Puedes obtener 2 monedas de plata gratis por el inicio de sesión diario. 1 voto requiere 10 monedas de plata u oro. Puedes comprar monedas de oro en el sitio web oficial. Por favor"
+  hub_award:   # new
+    title: "HUB AWARDS 2024"
+    description: "El período de votación se extiende hasta el 1 de febrero, 9:59 hora de Bangkok. FayMay Official y FreenBecky_Ranking VN (@fbrankingvn) están colaborando para los Hub Awards. Las animamos a votar por FreenBecky en la categoría "Pareja del Año" y por FayMay en la categoría "Pareja Revelación del Año". Para participar, por favor tomen una captura de pantalla y comenten en la publicación de FayMay Official con el hashtag HubAwardxFayMayxFreenBecky. Por favor"
     vote_link: "vota por ellas"
+    notes: "Por favor "
+    notes_link: "consulten la publicación completa de FayMay Official aquí."
   
   kazz_awards:
     title: "KAZZ AWARDS - Youth Idol of the Year 2024"
@@ -180,6 +183,8 @@ fan_pages:
     italia: "Italy"
     singapore: "Singapore"
     taiwan: "Taiwan"
+    china: "China"  # new
+    japan: "Japan"  # new
 
 # Fan Creations content
 fan_creations:
@@ -289,8 +294,9 @@ official_events:
   translation_status: "Traducido automáticamente. Pendiente de traducción y revisión por nuestros traductores."
   description: "Consulta estos próximos eventos oficiales y, por favor, apoya a FayMay."
   event1:
-    title: "TIFFCOM Event in Japan"
-    description: "FayMay asistirá al evento TIFFCOM en Japón del 28 al 31 de octubre de 2024."
+    title: "IDOL FACTORY GIRL'S DAY"
+    description: "FreenBecky y FayMay realizarán un evento en Japón. Los fan meetings se llevarán a cabo en Saitama y Osaka. Para Saitama, el evento se realizará en el lugar: Sonic City Large Hall el 2 de marzo de 2025. Para Osaka, el evento se realizará en el lugar: Osaka International Exchange Center Large Hall el 3 de marzo de 2025. Los precios de los boletos comienzan desde 5,500 yenes (impuestos incluidos). Por favor "
+    event1_link: "consulten la página web oficial para más detalles."
 
 # Fan Support Projects content
 fan_projects:
@@ -360,7 +366,7 @@ swsh_series:
   genres: "Géneros: Comedia Romántica"
   other_names: "Otros nombres: รักปากแข็ง, SWSHGL"
   follow: "Por favor, sigue la cuenta oficial de la serie en las redes sociales para más actualizaciones y noticias: "
-  suport: "Esta serie adapta la novela 'Somewhere Somehow รักปากแข็ง' de Monmaw. La traducción al inglés actualmente lanza un episodio diario, con los capítulos 1-10 disponibles de forma gratuita en ReadAwrite a partir del 27 de octubre. Para apoyar al autor, por favor compra capítulos adicionales en ReadAwrite o considera comprar la versión en inglés cuando se publique. Puedes encontrar la novela original aquí: "
+  suport: "Esta serie está basada en la novela 'Somewhere Somehow รักปากแข็ง' de Monmaw. La novela consta de dos volúmenes. El Volumen 1 está disponible en inglés. La traducción al inglés del Volumen 2 será publicada en el futuro. Puedes comprar la novela original aquí: "
   main_roles:
     title: "Papeles principales:"
     description: "Solo se han anunciado los papeles principales hasta ahora."

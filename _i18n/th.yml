@@ -10,6 +10,7 @@ global:
   series_name: "ฝันรักห้วงนิทรา (My Marvellous Dream is You)"
   dreamgl: "DreamGL"
   dream_the_series: "Dream The Series"
+  swshgl: "Somewhere Somehow (รักปากแข็ง)"  
   idol_factory: "Idol Factory"
 
 # Navigation
@@ -71,7 +72,7 @@ languages:
 # Home page content
 home:
   actress_description: '{fay_name} และ {may_name} เป็นนักแสดงสาวไทยจาก {idol_factory} ชื่อคู่จิ้นของพวกเธอคือ {couple_name}'
-  series_description: 'ผลงานการแสดงชิ้นแรกของพวกเธอในฐานะนักแสดงนำคือ {series_name} หรือที่รู้จักกันในชื่อ {dreamgl} หรือ {dream_the_series}.'
+  series_description: 'ผลงานการแสดงชิ้นแรกของพวกเธอในฐานะนักแสดงนำคือ {series_name} หรือที่รู้จักกันในชื่อ {dreamgl} หรือ {dream_the_series}. ขณะนี้พวกเธอกำลังถ่ายทำซีรีส์เรื่องที่สองของพวกเธอ {swshgl} ติดตามพวกเธอได้ทางโซเชียลมีเดียทางการเพื่อทำความรู้จักพวกเธอมากขึ้น'
 
 # Profile page content
 profile:
@@ -135,10 +136,12 @@ voting:
     title: "Star Focus - 2024 THE MOST BEAUTIFUL FACE IN ASIA PACIFIC"
     description: "ระยะเวลาการลงคะแนนคือจากวันที่ 30 ตุลาคม 2024 เวลา 24:00 น. (เวลาในกรุงเทพฯ) สำหรับแต่ละอีเมล เมื่อเข้าสู่ระบบครั้งแรก คุณสามารถรับบัตรฟรี 300 ใบโดยการเข้าร่วมบ้านศิลปิน Fay&May สำหรับทุกวัน หนึ่งอีเมลสามารถรับบัตรฟรี 6 ใบ: 3 ใบจากการเข้าสู่ระบบรายวัน และ 3 ใบจากการแชร์บน Twitter บัตรฟรีจะถูกลบทุกวันพฤหัสบดีเวลา 00:00 น. (เวลาในกรุงเทพฯ) โปรด"
     vote_link: "ลงคะแนนเสียงให้พวกเขา."
-  yent_award:
-    title: "Y Entertain Awards 2024 - Rising Star Couple of the Year"
-    description: "ระยะเวลาการลงคะแนนเสียงคือจากวันที่ 24 ตุลาคมถึง 30 พฤศจิกายน 2024 เวลา 24:00 น. (เวลาในกรุงเทพฯ) คุณสามารถรับเหรียญเงินฟรี 2 เหรียญจากการเข้าสู่ระบบรายวัน 1 คะแนนเสียงต้องใช้เหรียญเงินหรือเหรียญทอง 10 เหรียญ คุณสามารถซื้อเหรียญทองได้จากเว็บไซต์ทางการ โปรด"
-    vote_link: "ลงคะแนนเสียงให้พวกเขา."
+  hub_award:   # new
+    title: "HUB AWARDS 2024"
+    description: "ระยะเวลาโหวตตั้งแต่วันนี้ถึง 1 กุมภาพันธ์ เวลา 9:59 น. (ตามเวลากรุงเทพฯ) FayMay Official และ FreenBecky_Ranking VN (@fbrankingvn) ร่วมมือกันจัดงาน Hub Awards เชิญชวนทุกคนร่วมโหวตให้ FreenBecky ในสาขา Couple of the Year และ FayMay ในสาขา Rookie Couple of the Year วิธีร่วมโหวต: ถ่ายภาพหน้าจอและคอมเมนต์ใต้โพสต์ของ FayMay Official พร้อมติดแฮชแท็ก HubAwardxFayMayxFreenBecky. "
+    vote_link: "กรุณาร่วมโหวตให้พวกเธอด้วยค่ะ"
+    notes: " "
+    notes_link: "กรุณาตรวจสอบโพสต์ทั้งหมดได้จาก FayMay Official ที่นี่"
   kazz_awards:
     title: "KAZZ AWARDS - Youth Idol of the Year 2024"
     description: "ระยะเวลาการลงคะแนนเสียงคือ <strong>ตั้งแต่วันที่ 23 กันยายนถึง 3 พฤศจิกายน 2024 เวลา 24:00 น. (เวลาในกรุงเทพฯ)</strong> รางวัลนี้มีความสำคัญสำหรับ FayMay ศิลปิน 5 คนที่มีคะแนนเสียงสูงสุดจะได้รับรางวัล Young Sweetheart of the Year ที่งาน KAZZ AWARDS 2025 และจะได้ปรากฏตัวเดี่ยวบนปกของ KAZZ MAGAZINE เราต้องการให้ทั้งสองคนอยู่ใน 5 อันดับแรก นี่จะเป็นเรื่องยากสำหรับเรา แต่ฉันเชื่อว่าเราสามารถทำได้ เราต้องพยายาม กฎการลงคะแนนเสียง:"
@@ -178,6 +181,8 @@ fan_pages:
     taiwan: "ไต้หวัน"
     thailand: "ประเทศไทย"
     vietnam: "เวียดนาม"
+    china: "จีน"  # new
+    japan: "ญี่ปุ่น"  # new
 
 # Fan Creations content
 fan_creations:
@@ -287,8 +292,9 @@ official_events:
   translation_status: "แปลโดยเครื่อง. รอการแปลและตรวจสอบโดยผู้แปลของเรา."
   description: "ตรวจสอบกิจกรรมทางการที่กำลังจะมาถึงเหล่านี้ และกรุณาให้การสนับสนุน FayMay."
   event1:
-    title: "TIFFCOM Event in Japan"
-    description: "FayMay จะเข้าร่วมงาน TIFFCOM ที่ประเทศญี่ปุ่นตั้งแต่วันที่ 28 ถึง 31 ตุลาคม 2024."
+    title: "IDOL FACTORY GIRL'S DAY"
+    description: "FreenBecky และ FayMay จะจัดงานแฟนมีตติ้งที่ญี่ปุ่น โดยจัดขึ้นที่ไซตามะและโอซาก้า สำหรับไซตามะ งานจะจัดขึ้นที่ Sonic City Large Hall ในวันที่ 2 มีนาคม 2025 ส่วนโอซาก้า งานจะจัดขึ้นที่ Osaka International Exchange Center Large Hall ในวันที่ 3 มีนาคม 2025 ราคาบัตรเริ่มต้นที่ 5,500 เยน (รวมภาษีแล้ว) "
+    event1_link: "กรุณาตรวจสอบรายละเอียดเพิ่มเติมได้ที่เว็บไซต์ทางการ"
 
 # Fan Support Projects content
 fan_projects:
@@ -358,7 +364,7 @@ swsh_series:
   genres: "ประเภท: โรแมนติกคอมเมดี้"
   other_names: "ชื่ออื่น ๆ: รักปากแข็ง, SWSHGL"
   follow: "กรุณาติดตามบัญชีทางการของซีรีส์ในแพลตฟอร์มโซเชียลมีเดียเพื่อรับข้อมูลอัปเดตและข่าวสารเพิ่มเติม: "
-  suport: "ซีรีส์นี้ดัดแปลงจากนวนิยาย 'Somewhere Somehow รักปากแข็ง' โดย Monmaw. การแปลเป็นภาษาอังกฤษกำลังปล่อยตอนใหม่ทุกวัน โดยมีบทที่ 1-10 ให้ใช้ฟรีที่ ReadAwrite ตั้งแต่วันที่ 27 ตุลาคม เพื่อสนับสนุนผู้เขียน กรุณาซื้อบทเพิ่มเติมที่ ReadAwrite หรือพิจารณาซื้อเวอร์ชันภาษาอังกฤษเมื่อมีการเผยแพร่ คุณสามารถดูนวนิยายต้นฉบับได้ที่นี่: "
+  suport: "ซีรีส์นี้ดัดแปลงจากนิยายเรื่อง 'Somewhere Somehow รักปากแข็ง' โดยคุณมนมอ นิยายมีทั้งหมด 2 เล่ม โดยเล่ม 1 มีฉบับแปลภาษาอังกฤษแล้ว ส่วนเล่ม 2 จะมีฉบับแปลภาษาอังกฤษในอนาคต สามารถซื้อนิยายต้นฉบับได้ที่นี่:"
   main_roles:
     title: "นักแสดงนำ:"
     description: "ณ ขณะนี้มีเพียงนักแสดงนำที่ประกาศเท่านั้น"

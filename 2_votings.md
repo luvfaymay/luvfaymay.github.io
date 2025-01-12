@@ -25,18 +25,19 @@ nav-menu: true
     <section id="two" class="spotlights">
         <section>
             <div class="image">
-                <img src="{{ 'assets/images/r7.jpeg' | relative_url }}" alt="starlight" data-position="center center">
+                <img src="{{ 'assets/images/hubaward.jpeg' | relative_url }}" alt="hubaward" data-position="center center">
             </div>
             <div class="content">
                 <div class="inner">
                     <header class="major">
-                        <h3>{% t voting.yent_award.title %}</h3>
+                        <h3>{% t voting.hub_award.title %}</h3>
                     </header>
-                    <p>{% t voting.yent_award.description %} <a class="vote-link" href="https://yentertainawards.mcot.net/vote/view/Rising">{% t common.vote_for_them %}</a></p>
+                    <p>{% t voting.hub_award.description %} <a class="vote-link" href="awards.girlslovehub.com/#Vote">{% t common.vote_for_them %}</a></p>
+                    <p>{% t voting.hub_award.notes %} <a class="vote-link" href="https://x.com/FayMayOfficial/status/1877998938378358836">{% t voting.hub_award.notes_link %}</a></p>
                 </div>
             </div>
         </section>
-        <section>
+        <!-- <section>
             <div class="image">
                 <img src="{{ 'assets/images/votekazz.png' | relative_url }}" alt="kazz" data-position="center center">
             </div>
@@ -69,6 +70,6 @@ nav-menu: true
                     <p>{% t voting.starfocus.description %} <a class="vote-link" href="https://www.starfocus.online/spu/704796635758186497">{% t common.vote_for_them %}</a></p>
                 </div>
             </div>
-        </section>
+        </section> -->
     </section>
 </div>

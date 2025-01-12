@@ -2,7 +2,7 @@
 title: Official Events
 layout: landing
 description: ""
-image: assets/images/banner19.jpeg
+image: assets/images/swsh22.jpeg
 nav-menu: true
 ---
 
@@ -20,14 +20,14 @@ nav-menu: true
     <section id="two" class="spotlights">
         <section>
             <div class="image">
-				<img src="{{ 'assets/images/oevent1.jpeg' | relative_url }}" alt="tiffcom" data-position="center center">
+				<img src="{{ 'assets/images/idfgd.jpeg' | relative_url }}" alt="idfgd" data-position="center center">
 			</div>
             <div class="content">
                 <div class="inner">
                     <header class="major">
                         <h3>{{ site.translations[site.lang].official_events.event1.title }}</h3>
                     </header>
-                    <p>{{ site.translations[site.lang].official_events.event1.description }}</p>
+                    <p>{% t official_events.event1.description %} <a class="vote-link" href="https://idf-girlsday.ponycanyon.co.jp/">{% t official_events.event1.event1_link %}</a></p>
                 </div>
             </div>
         </section>

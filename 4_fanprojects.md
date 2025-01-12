@@ -25,41 +25,6 @@ nav-menu: true
             <p>{{ site.translations[site.lang].fan_projects.ongoing.description }}</p>
         </div>
     </section>
-    <section id="three" class="spotlights">
-        <section>
-            <div class="image">
-                <img src="{{ 'assets/images/faybday.jpeg' | relative_url }}" alt="faybday" data-position="center center">
-            </div>
-            <div class="content">
-                <div class="inner">
-                    <header class="major">
-                        <h3>{{ site.translations[site.lang].fan_projects.fay_birthday.title }}</h3>
-                    </header>
-                    <p>{{ site.translations[site.lang].fan_projects.fay_birthday.description }} <strong>{{ site.translations[site.lang].fan_projects.fay_birthday.donation_period }}</strong>. {{ site.translations[site.lang].fan_projects.fay_birthday.activities }}</p>
-                    <ol>
-                        <li>{{ site.translations[site.lang].fan_projects.fay_birthday.activities_list.special_gift }}</li>
-                        <li>{{ site.translations[site.lang].fan_projects.fay_birthday.activities_list.tuk_tuk_ads }}</li>
-                        <li>{{ site.translations[site.lang].fan_projects.fay_birthday.activities_list.gallery }}</li>
-                    </ol>
-                    <p>{{ site.translations[site.lang].fan_projects.fay_birthday.check_post }} <span class="vote-link"><a href="https://x.com/FayOfficial_TH/status/1849678842564313215">{{ site.translations[site.lang].fan_projects.fay_birthday.full_post }}</a></span></p>
-                </div>
-            </div>
-        </section>
-        <section>
-            <div class="image">
-                <img src="{{ 'assets/images/faybdaytw.jpeg' | relative_url }}" alt="maybday" data-position="center center">
-            </div>
-            <div class="content">
-                <div class="inner">
-                    <header class="major">
-                        <h3>{{ site.translations[site.lang].fan_projects.fay_birthday_tw.title }}</h3>
-                    </header>
-                    <p>{{ site.translations[site.lang].fan_projects.fay_birthday_tw.description }} <strong>{{ site.translations[site.lang].fan_projects.fay_birthday_tw.donation_period }}</strong>.</p>
-                    <p>{{ site.translations[site.lang].fan_projects.fay_birthday_tw.check_post }} <span class="vote-link"><a href="https://x.com/FayMay_TW_/status/1850032669024833719">{{ site.translations[site.lang].fan_projects.fay_birthday_tw.full_post }}</a></span></p>
-                </div>
-            </div>
-        </section>
-    </section>
     <section id="four"  class="spotlights">
         <div class="inner">
             <header class="major">

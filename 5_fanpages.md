@@ -78,10 +78,23 @@ nav-menu: true
 							<td>&nbsp;</td>
 							<td>&nbsp;</td>
 							<td>{{ site.data[site.lang].common.common_no }}</td>
+						</tr><tr>
+							<td>{{ site.data[site.lang].fan_pages.countries.china }}</td>
+							<td><a href="https://x.com/FayMay_CN_Honey">FayMay_CN _Honey🇨🇳 🍯</a></td>
+							<td>&nbsp;</td>
+							<td>&nbsp;</td>
+							<td>{{ site.data[site.lang].common.common_no }}</td>
 						</tr>
 						<tr>
 							<td>{{ site.data[site.lang].fan_pages.countries.italia }}</td>
 							<td><a href="https://x.com/FayRiezzItaOFB">Fay Italian Official Fanbase</a></td>
+							<td>&nbsp;</td>
+							<td>&nbsp;</td>
+							<td>{{ site.data[site.lang].common.common_no }}</td>
+						</tr>
+						<tr>
+							<td>{{ site.data[site.lang].fan_pages.countries.japan }}</td>
+							<td><a href="https://x.com/FayMayJapan">FAYMAY JAPAN FC</a></td>
 							<td>&nbsp;</td>
 							<td>&nbsp;</td>
 							<td>{{ site.data[site.lang].common.common_no }}</td>
@@ -117,6 +130,13 @@ nav-menu: true
 						<tr>
 							<td>{{ site.data[site.lang].fan_pages.countries.vietnam }}</td>
 							<td><a href="https://x.com/faymayvietnam">FayMay Vietnam</a></td>
+							<td>&nbsp;</td>
+							<td>&nbsp;</td>
+							<td>{{ site.data[site.lang].common.common_no }}</td>
+						</tr>
+						<tr>
+							<td>{{ site.data[site.lang].fan_pages.countries.vietnam }}</td>
+							<td><a href="https://x.com/faymay_dvn">FayMay Dreamers Vietnam</a></td>
 							<td>&nbsp;</td>
 							<td>&nbsp;</td>
 							<td>{{ site.data[site.lang].common.common_no }}</td>

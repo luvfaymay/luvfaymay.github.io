@@ -10,6 +10,7 @@ global:
   series_name: "My Marvellous Dream is You (ฝันรักห้วงนิทรา)"
   dreamgl: "DreamGL"
   dream_the_series: "Dream The Series"
+  swshgl: "Somewhere Somehow (รักปากแข็ง)"  # new
   idol_factory: "Idol Factory"
 
 # Navigation
@@ -71,7 +72,7 @@ languages:
 # Home page content
 home:
   actress_description: 'Sina {fay_name} at {may_name} ay mga Thai GL actress sa ilalim ng {idol_factory}. Ang kanilang on-screen couple name ay {couple_name}.'
-  series_description: 'Ang kanilang unang acting project bilang mga pangunahing aktres ay ang {series_name}, na kilala rin bilang {dreamgl} o {dream_the_series}.'
+  series_description: 'Ang kanilang unang acting project bilang mga pangunahing aktres ay ang {series_name}, na kilala rin bilang {dreamgl} o {dream_the_series}. Kasalukuyan silang nagfi-filming ng kanilang pangalawang serye, {swshgl}. Sundan sila sa kanilang mga opisyal na social media accounts upang mas makilala pa sila.'
 
 # Profile page content
 profile:
@@ -135,10 +136,12 @@ voting:
     title: "Star Focus - 2024 THE MOST BEAUTIFUL FACE IN ASIA PACIFIC"
     description: "Ang panahon ng pagboto ay magsisimula sa Oktubre 30, 2024 24:00 oras ng Bangkok. Para sa bawat email, sa unang pag-login, makakakuha ka ng 300 libreng ticket sa pamamagitan ng pagsali sa artist house nina Fay at May. Sa pang-araw-araw, ang bawat email ay makakakuha ng 6 na libreng ticket: 3 libreng ticket mula sa pang-araw-araw na pag-login at 3 libreng ticket mula sa pagbabahagi sa Twitter. Ang mga libreng ticket ay mabubura tuwing Huwebes ng 00:00 oras ng Bangkok. Mangyaring "
     vote_link: "bumoto para sa kanila."
-  yent_award:
-    title: "Y Entertain Awards 2024 - Rising Star Couple of the Year"
-    description: "Ang panahon ng pagboto ay mula Oktubre 24 hanggang Nobyembre 30, 2024 24:00 oras ng Bangkok. Makakakuha ka ng 2 libreng pilak na barya mula sa pang-araw-araw na pag-login. Ang 1 boto ay nangangailangan ng 10 pilak o gintong barya. Maaari kang bumili ng mga gintong barya mula sa opisyal na website. Mangyaring "
+  hub_award:   # new
+    title: "HUB AWARDS 2024"
+    description: "Ang botohan ay magtatapos sa February 1, 9:59 oras ng BKK. Nakikipagtulungan ang FayMay Official at FreenBecky_Ranking VN (@fbrankingvn) para sa Hub Awards. Hinihikayat namin kayo na bumoto kay FreenBecky sa kategoryang 'Couple of the Year' at kay FayMay sa 'Rookie Couple of the Year'. Para makasali, kumuha ng screenshot at mag-comment sa ilalim ng post ng FayMay Official gamit ang hashtag na HubAwardxFayMayxFreenBecky. Mangyaring "
     vote_link: "bumoto para sa kanila."
+    notes: "Mangyaring  "
+    notes_link: "tingnan ang kumpletong post mula sa FayMay Official dito."
   kazz_awards:
     title: "KAZZ AWARDS - Youth Idol of the Year 2024"
     description: "Ang panahon ng pagboto ay mula <strong>Setyembre 23 hanggang Nobyembre 03, 2024 24:00 oras ng Bangkok</strong>. Ang parangal na ito ay mahalaga para kina Fay at May. Ang 5 mga artista na may pinakamataas na boto ay tatanggap ng parangal na Young Sweetheart of the Year sa KAZZ AWARDS 2025 at magkakaroon din ng solo sa pabalat ng KAZZ MAGAZINE. Kailangan nating mapasama silang dalawa sa top 5. Mahirap ito para sa atin, ngunit naniniwala ako na kaya natin ito. Dapat nating subukin. Mga Patakaran sa Pagboto: "
@@ -177,6 +180,8 @@ fan_pages:
     taiwan: "Taiwan"
     thailand: "Thailand"
     vietnam: "Vietnam"
+    china: "China"  # new
+    japan: "Japan"  # new
 
 # Fan Creations content
 fan_creations:
@@ -286,8 +291,9 @@ official_events:
   translation_status: "Makinaryang pagsasalin. Naghihintay ng pagsasalin at pagsusuri ng aming mga tagapagsalin."
   description: "Suriin ang mga paparating na opisyal na kaganapan na ito, at mangyaring suportahan ang FayMay."
   event1:
-    title: "TIFFCOM Event in Japan"
-    description: "Mag-aattend si FayMay sa TIFFCOM Event sa Japan mula 28 hanggang 31 Oktubre 2024."
+    title: "IDOL FACTORY GIRL'S DAY"
+    description: "Magkakaroon ng event ang FreenBecky at FayMay sa Japan. Gaganapin ang fan meetings sa Saitama at Osaka. Sa Saitama, gaganapin ito sa Sonic City Large Hall sa March 2, 2025. Sa Osaka, gaganapin ito sa Osaka International Exchange Center Large Hall sa March 3, 2025. Ang presyo ng ticket ay magsisimula sa 5,500 yen (kasama ang buwis). Pakiusap "
+    event1_link: "tingnan ang opisyal na website para sa karagdagang detalye."
 
 # Fan Support Projects content
 fan_projects:
@@ -357,7 +363,7 @@ swsh_series:
   genres: "Genre: Romantikong Komedya"
   other_names: "Mga Ibang Pangalan: รักปากแข็ง, SWSHGL"
   follow: "Pakisundan ang opisyal na account ng serye sa mga platform ng social media para sa higit pang mga update at balita: "
-  suport: "Ang seryeng ito ay nag-aangkop ng nobelang 'Somewhere Somehow รักปากแข็ง' ni Monmaw. Ang pagsasalin sa Ingles ay kasalukuyang naglalabas ng isang episode araw-araw, na may mga kabanata 1-10 na magagamit nang libre sa ReadAwrite simula Oktubre 27. Upang suportahan ang may-akda, mangyaring bumili ng karagdagang mga kabanata sa ReadAwrite o isaalang-alang ang pagbili ng bersyon sa Ingles sa oras ng paglabas. Maaari mong makita ang orihinal na nobela dito: "
+  suport: "Ang serye na ito ay base sa nobela na 'Somewhere Somehow รักปากแข็ง' ni Monmaw. May dalawang tomo ang nobela. Available sa English ang Volume 1. Ang English translation ng Volume 2 ay ilalabas sa hinaharap. Maaari ninyong bilhin ang orihinal na nobela dito:"
   main_roles:
     title: "Mga pangunahing papel:"
     description: "Ngayon, tanging ang mga pangunahing papel lamang ang naipahayag."

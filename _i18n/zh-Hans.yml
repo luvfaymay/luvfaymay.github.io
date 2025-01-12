@@ -10,6 +10,7 @@ global:
   series_name: "梦中的她 (ฝันรักห้วงนิทรา)"
   dreamgl: "DreamGL"
   dream_the_series: "连续剧梦中的她"
+  swshgl: "Somewhere Somehow (รักปากแข็ง)"  # new
   idol_factory: "Idol Factory"
 
 # Navigation
@@ -71,7 +72,7 @@ languages:
 # Home page content
 home:
   actress_description: '{fay_name} 和 {may_name} 是来自 {idol_factory} 公司的泰国女演员。她们的CP名是 {couple_name}。'
-  series_description: '她们首次担任主演的作品是 {series_name}，也被称为 {dreamgl} 或 {dream_the_series}。'
+  series_description: '她们首次担任主演的作品是 {series_name}，也被称为 {dreamgl} 或 {dream_the_series}。她们目前正在拍摄第二部系列作品 {swshgl}。欢迎在官方社交媒体账号关注她们，更多了解她们。'
 
 # Profile page content
 profile:
@@ -135,10 +136,12 @@ voting:
     title: "Star Focus - 2024 THE MOST BEAUTIFUL FACE IN ASIA PACIFIC"
     description: "投票时间为2024年10月30日24:00（曼谷时间）。每个邮箱在首次登录时，可以通过加入Fay&May艺术之家获得300张免费票。每日，每个邮箱可以获得6张免费票：3张来自每日登录，3张来自在Twitter上分享。免费票将在每周四的00:00（曼谷时间）清空。请 "
     vote_link: "为他们投票。"
-  yent_award:
-    title: "Y Entertain Awards 2024 - Rising Star Couple of the Year"
-    description: "投票时间为2024年10月24日至11月30日24:00（曼谷时间）。您可以通过每日登录获得2个免费的银币。1票需要10个银币或金币。您可以从官方网站购买金币。请 "
+  hub_award:   # new
+    title: "HUB AWARDS 2024"
+    description: "投票时间持续至2月1日曼谷时间9:59。FayMay官方和FreenBecky_Ranking越南 (@fbrankingvn) 正在为Hub Awards合作。诚邀您为"年度情侣"类别投票支持FreenBecky，为"年度新人情侣"类别投票支持FayMay。参与方式：请截图并在FayMay官方帖子下评论，使用标签HubAwardxFayMayxFreenBecky。 请 "
     vote_link: "为他们投票。"
+    notes: "请"
+    notes_link: "请在这里查看FayMay官方完整帖文。"
   kazz_awards:
     title: "KAZZ AWARDS - Youth Idol of the Year 2024"
     description: "投票时间为<strong>2024年9月23日至11月3日24:00（曼谷时间）</strong>。这个奖项对FayMay来说非常重要。获得最高票数的前五位艺术家将于KAZZ AWARDS 2025上获得年度年轻甜心奖，并将在KAZZ MAGAZINE的封面上单独亮相。我们需要她们两个都进入前五名。这对我们来说将是一个挑战，但我相信我们可以做到。我们必须努力。投票规则： "
@@ -177,6 +180,8 @@ fan_pages:
     taiwan: "台湾"
     thailand: "泰国"
     vietnam: "越南"
+    china: "中国"  # new
+    japan: "日本"  # new
 
 # Fan Creations content
 fan_creations:
@@ -286,8 +291,9 @@ official_events:
   translation_status: "机器翻译。待我们的翻译员翻译和校对。"
   description: "查看这些即将举行的官方活动，并请支持FayMay。"
   event1:
-    title: "TIFFCOM Event in Japan"
-    description: "FayMay将于2024年10月28日至31日参加在日本举行的TIFFCOM活动。"
+    title: "IDOL FACTORY GIRL'S DAY"
+    description: "FreenBecky和FayMay将在日本举办粉丝见面会。埼玉场将于2025年3月2日在Sonic City大厅举行，大阪场将于2025年3月3日在大阪国际交流中心大厅举行。票价起价5,500日元（含税）。 "
+    event1_link: "详情请查看官方网站。"
 
 # Fan Support Projects content
 fan_projects:
@@ -357,7 +363,7 @@ swsh_series:
   genres: "类型：浪漫喜剧"
   other_names: "其他名称: รักปากแข็ง, SWSHGL"
   follow: "请在社交媒体平台关注官方系列账号，以获取更多更新和新闻："
-  suport: "本系列改编自 Monmaw 的小说《Somewhere Somehow รักปากแข็ง》。英文翻译目前每天发布一集，1-10章将在 10 月 27 日起在 ReadAwrite 免费提供。为了支持作者，请在 ReadAwrite 上购买更多章节，或考虑在发布时购买英文版本。您可以在这里找到原版小说："
+  suport: "该剧改编自Monmaw的小说《Somewhere Somehow รักปากแข็ง》。小说共两卷。第一卷已有英文版。第二卷英文版将在未来推出。您可以在这里购买原版小说："
   main_roles:
     title: "主要角色："
     description: "目前仅公布了主角。"
