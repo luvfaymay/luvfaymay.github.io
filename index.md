@@ -90,7 +90,7 @@ carousel_images:
     alt: Banner 17
   - url: assets/images/banner18.jpeg
     alt: Banner 18
-  - url: assets/images/banner18.jpeg
+  - url: assets/images/banner19.jpeg
     alt: Banner 19
   - url: assets/images/square1.jpeg
     alt: Square Image 1
@@ -143,12 +143,14 @@ carousel_images:
     {% if page.lang == "en" %}
       <!-- Link to the profile page in the root for English -->
       <a href="{{ site.baseurl }}/1_profile/index.html" class="button next">
-        {% t common.get_to_know_more %}
+        <!-- {% t common.get_to_know_more %} -->
+        {{ site.translations[site.lang].common.get_to_know_more }}
       </a>
     {% else %}
       <!-- Link to the translated profile page for other languages -->
       <a href="{{ site.baseurl }}/{{ page.lang }}/1_profile/index.html" class="button next">
-        {% t common.get_to_know_more %}
+        <!-- {% t common.get_to_know_more %} -->
+        {{ site.translations[site.lang].common.get_to_know_more }}
       </a>
     {% endif %}
   </li>
