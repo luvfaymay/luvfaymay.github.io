@@ -10,7 +10,7 @@ global:
   series_name: "My Marvellous Dream is You (ฝันรักห้วงนิทรา)"
   dreamgl: "DreamGL"
   dream_the_series: "Dream The Series"
-  swshgl: "Somewhere Somehow (รักปากแข็ง)"  # new
+  swshgl: "Somewhere Somehow (รักปากแข็ง)"
   idol_factory: "Idol Factory"
 
 # Navigation
@@ -72,7 +72,7 @@ languages:
 # Home page content
 home:
   actress_description: '{fay_name} and {may_name} are Thai GL actresses under {idol_factory}. Their on-screen couple name is {couple_name}.' 
-  series_description: 'Their first acting project as lead actresses is {series_name}, also known as {dreamgl} or {dream_the_series}. They are currently filming their second series, {swshgl}. Please follow them on their official social media accounts to get to know them more.'  # new
+  series_description: 'Their first acting project as lead actresses is {series_name}, also known as {dreamgl} or {dream_the_series}. They are currently filming their second series, {swshgl}. Please follow them on their official social media accounts to get to know them more.'
 
 # Profile page content
 profile:
@@ -180,8 +180,8 @@ fan_pages:
     taiwan: "Taiwan"
     thailand: "Thailand"
     vietnam: "Vietnam"
-    china: "China"  # new
-    japan: "Japan"  # new
+    china: "China"
+    japan: "Japan"
 
 # Fan Creations content
 fan_creations:
@@ -290,7 +290,7 @@ official_events:
   title: "Official Events"
   translation_status: ""
   description: "Check out these upcoming official events, and please support FayMay."
-  event1:  # new
+  event1:
     title: "IDOL FACTORY GIRL'S DAY"
     description: "FreenBecky & FayMay will be holding an event in Japan. Fan meetings will be held in Saitama and Osaka. For Saitama, the event will be held at the venue: Sonic City Large Hall on March 2, 2025. For Osaka, the event will be held at the venue: Osaka International Exchange Center Large Hall on March 3, 2025. Ticket prices start from 5,500 yen (tax included). Please "
     event1_link: "check the official website for more details."
@@ -362,7 +362,7 @@ swsh_series:
   description: "One person is stubborn in speech, while the other is stubborn at heart. A slow-burning, dazed love story - will this romance between a talented female engineer and the beautiful but strict, fierce vice president work out? Let's find out."
   genres: "Genre: Romantic Comedy"
   other_names: "Other Names: รักปากแข็ง, SWSHGL"
-  follow: "Please follow the official series account on social media platforms for more updates and news: "  # new
+  follow: "Please follow the official series account on social media platforms for more updates and news: "
   suport: "This series adapts the novel 'Somewhere Somehow รักปากแข็ง' by Monmaw. The novel consists of two volumes. Volume 1 is available in English. The English translation of Volume 2 will be released in the future. You can buy the original novel here: "
   main_roles:
     title: "Main roles:"

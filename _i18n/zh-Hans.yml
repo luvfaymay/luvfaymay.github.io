@@ -10,7 +10,7 @@ global:
   series_name: "梦中的她 (ฝันรักห้วงนิทรา)"
   dreamgl: "DreamGL"
   dream_the_series: "连续剧梦中的她"
-  swshgl: "Somewhere Somehow (รักปากแข็ง)"  # new
+  swshgl: "Somewhere Somehow (รักปากแข็ง)"
   idol_factory: "Idol Factory"
 
 # Navigation
@@ -180,8 +180,8 @@ fan_pages:
     taiwan: "台湾"
     thailand: "泰国"
     vietnam: "越南"
-    china: "中国"  # new
-    japan: "日本"  # new
+    china: "中国"
+    japan: "日本"
 
 # Fan Creations content
 fan_creations:

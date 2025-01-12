@@ -181,8 +181,8 @@ fan_pages:
     taiwan: "ไต้หวัน"
     thailand: "ประเทศไทย"
     vietnam: "เวียดนาม"
-    china: "จีน"  # new
-    japan: "ญี่ปุ่น"  # new
+    china: "จีน"
+    japan: "ญี่ปุ่น"
 
 # Fan Creations content
 fan_creations:

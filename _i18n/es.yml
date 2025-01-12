@@ -10,7 +10,7 @@ global:
   series_name: "My Marvellous Dream is You (ฝันรักห้วงนิทรา)"
   dreamgl: "DreamGL"
   dream_the_series: "Dream The Series"
-  swshgl: "Somewhere Somehow (รักปากแข็ง)"  # new
+  swshgl: "Somewhere Somehow (รักปากแข็ง)"
   idol_factory: "Idol Factory"
 
 # Navigation
@@ -183,8 +183,8 @@ fan_pages:
     italia: "Italy"
     singapore: "Singapore"
     taiwan: "Taiwan"
-    china: "China"  # new
-    japan: "Japan"  # new
+    china: "China"
+    japan: "Japan"
 
 # Fan Creations content
 fan_creations:
