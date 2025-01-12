@@ -62,7 +62,7 @@ nav-menu: true
                             <td>#namorntaraaa</td>
                         </tr>
                         <tr>
-                            <td>P'Pun</td>
+                            <td>Tan</td>
                             <td>Heng</td>
                             <td>Asavarid Pinitkanchanapan</td>
                             <td><a href="https://www.instagram.com/hengpnp/">@hengpnp</a></td>
