@@ -378,6 +378,9 @@ swsh_series:
   teasers:
     title: "Mga Pasilip"
     description: "TBA."
+  pilot:
+    title: "Pangunahing Episode ng Serye"
+    description: "Panoorin ang pangunahing episode ng serye dito sa opisyal na IDF YouTube channel. Magugustuhan mo ito!"
   episodes:
     title: "Mga UNCUT na episode"
     description: "TBA."

@@ -379,6 +379,9 @@ swsh_series:
   teasers:
     title: "ทีเซอร์"
     description: "TBA."
+  pilot:
+    title: "ตอนนำร่อง"
+    description: "กรุณารับชมตอนนำร่องได้ที่ช่อง YouTube IDF อย่างเป็นทางการ คุณจะต้องชอบมันแน่นอน!"
   episodes:
     title: "ตอน UNCUT"
     description: "TBA."

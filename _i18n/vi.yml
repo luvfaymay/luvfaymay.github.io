@@ -377,6 +377,9 @@ swsh_series:
   teasers:
     title: "Teasers"
     description: "TBA."
+  pilot:
+    title: "Tập thử nghiệm"
+    description: "Vui lòng xem tập thử nghiệm tại kênh YouTube chính thức của IDF. Bạn sẽ thích nó đấy!"
   episodes:
     title: "Các tập UNCUT"
     description: "TBA."

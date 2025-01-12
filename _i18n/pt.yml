@@ -378,6 +378,9 @@ swsh_series:
   teasers:
     title: "Teasers"
     description: "TBA."
+  pilot:
+    title: "Episódio Piloto"
+    description: "Assista ao episódio piloto aqui no canal oficial do IDF no YouTube. Você vai adorar!"
   episodes:
     title: "Episódios SEM CORTES"
     description: "TBA."

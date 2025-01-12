@@ -378,6 +378,9 @@ swsh_series:
   teasers:
     title: "Teasers"
     description: "TBA."
+  pilot:
+    title: "Episode Pilot Seri"
+    description: "Silakan tonton episode pilot seri di saluran YouTube resmi IDF. Kamu pasti akan menyukainya!"
   episodes:
     title: "UNCUT Episodes"
     description: "TBA."

@@ -366,8 +366,9 @@ swsh_series:
   suport: "This series adapts the novel 'Somewhere Somehow รักปากแข็ง' by Monmaw. The novel consists of two volumes. Volume 1 is available in English. The English translation of Volume 2 will be released in the future. You can buy the original novel here: "
   main_roles:
     title: "Main roles:"
-    description: "Only the leading roles are announced as of now."
+    description: "Please follow and support all the cast members!."
   table:
+    role: "Role"
     name: "Name"
     full_name: "Full Name"
     instagram: "Instagram"
@@ -378,6 +379,9 @@ swsh_series:
   teasers:
     title: "Teasers"
     description: "TBA."
+  pilot:
+    title: "Series Pilot"
+    description: "Please watch the series pilot here at official IDF YouTube channel. You will love it!"
   episodes:
     title: "UNCUT Episodes"
     description: "TBA."

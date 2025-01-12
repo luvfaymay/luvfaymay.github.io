@@ -378,6 +378,9 @@ swsh_series:
   teasers:
     title: "预告片"
     description: "TBA."
+  pilot:
+    title: "试播集"
+    description: "请在IDF官方YouTube频道观看试播集。你一定会喜欢的！"
   episodes:
     title: "未剪辑版集数"
     description: "TBA."

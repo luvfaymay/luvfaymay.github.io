@@ -34,6 +34,16 @@ nav-menu: true
                     </thead>
                     <tbody>
                         <tr>
+                            <td>Pheem (Pheemanas)</td>
+                            <td>May</td>
+                            <td>Yada Watcharamusik</td>
+                            <td><a href="https://www.instagram.com/maywyda/">@maywyda</a></td>
+                            <td><a href="https://x.com/maywyda">@maywyda</a></td>
+                            <td><a href="https://www.tiktok.com/@maywyda">@maywyda</a></td>
+                            <td>#maywyda</td>
+                        </tr>
+                        <tr>
+                            <td>Kie (Kiran)</td>
                             <td>Fay</td>
                             <td>Kunyaphat Na Nakorn</td>
                             <td><a href="https://www.instagram.com/fay_riezz/">@fay_riezz</a></td>
@@ -42,12 +52,22 @@ nav-menu: true
                             <td>#fay_riezz</td>
                         </tr>
                         <tr>
-                            <td>May</td>
-                            <td>Yada Watcharamusik</td>
-                            <td><a href="https://www.instagram.com/maywyda/">@maywyda</a></td>
-                            <td><a href="https://x.com/maywyda">@maywyda</a></td>
-                            <td><a href="https://www.tiktok.com/@maywyda">@maywyda</a></td>
-                            <td>#maywyda</td>
+                            <td>Pock (Pock Poradee)</td>
+                            <td>Looknam</td>
+                            <td>Orntara Poolsak</td>
+                            <td><a href="https://www.instagram.com/namorntaraaa/">@namorntaraaa</a></td>
+                            <td><a href="https://x.com/namorntaraaa">@namorntaraaa</a></td>
+                            <td><a href="https://www.tiktok.com/@namorntaraaa">@namorntaraaa</a></td>
+                            <td>#namorntaraaa</td>
+                        </tr>
+                        <tr>
+                            <td>P'Pun</td>
+                            <td>Heng</td>
+                            <td>Asavarid Pinitkanchanapan</td>
+                            <td><a href="https://www.instagram.com/hengpnp/">@hengpnp</a></td>
+                            <td><a href="https://x.com/hengpnp">@hengpnp</a></td>
+                            <td><a href="https://www.tiktok.com/@hhengpnp">@hengpnp</a></td>
+                            <td>#hengpnp</td>
                         </tr>
                     </tbody>
                 </table>
@@ -66,6 +86,22 @@ nav-menu: true
                     </header>
                     <div class="twitter-embed">
                         <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">𝐈𝐃𝐎𝐋𝐅𝐀𝐂𝐓𝐎𝐑𝐘 𝑃𝑅𝑂𝐽𝐸𝐶𝑇 𝐿𝐼𝑁𝐸 𝑈𝑃 𝟸𝟶𝟸𝟻<br><br>📍 ISLAND HALL, FASHION ISLAND<br>🗓️ January 12th, 2025<br><br>More details soon<a href="https://twitter.com/hashtag/%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%88%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%88%E0%B8%AD%E0%B8%A1?src=hash&amp;ref_src=twsrc%5Etfw">#หวานใจผู้ใหญ่จอม</a><a href="https://twitter.com/hashtag/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#รักปากแข็ง</a><a href="https://twitter.com/hashtag/%E0%B8%AD%E0%B8%AA%E0%B8%87%E0%B9%84%E0%B8%82%E0%B8%A2?src=hash&amp;ref_src=twsrc%5Etfw">#อสงไขย</a><a href="https://twitter.com/hashtag/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B8%8B%E0%B8%B2%E0%B8%81%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0?src=hash&amp;ref_src=twsrc%5Etfw">#ปริศนาซากมรณะ</a><a href="https://twitter.com/hashtag/idolfactoryTH?src=hash&amp;ref_src=twsrc%5Etfw">#idolfactoryTH</a> <a href="https://t.co/04aEZBUXVI">pic.twitter.com/04aEZBUXVI</a></p>&mdash; IDOLFACTORY (@IDOLFACTORYTH) <a href="https://twitter.com/IDOLFACTORYTH/status/1849790645461975376?ref_src=twsrc%5Etfw">October 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section>
+            <div class="image">
+                <img src="{{ 'assets/images/swsh26.jpeg' | relative_url }}" alt="Pilot" data-position="center center">
+            </div>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                        <h3>{{ site.translations[site.lang].swsh_series.pilot.title }}</h3>
+                    </header>
+                    <p>{{ site.translations[site.lang].swsh_series.pilot.description }}</p>
+                    <div class="video-embed">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/9p7jy0lF5ZA?si=3pawqzCsFjDv8WeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>

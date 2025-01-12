@@ -378,6 +378,9 @@ swsh_series:
   teasers:
     title: "ဇာတ်လမ်းအညွှန်း"
     description: "TBA."
+  pilot:
+    title: "ဇာတ်လမ်းအမြည်း"
+    description: "ကျေးဇူးပြု၍ တရားဝင် IDF YouTube ချန်နယ်တွင် ဇာတ်လမ်းအမြည်းကို ကြည့်ပါ။ သင်ကြိုက်နှစ်သက်မှာပါ။"
   episodes:
     title: "ဖြတ်တောက်မထားသော အပိုင်းများ"
     description: "TBA."

@@ -237,6 +237,9 @@ dream_series:
   teasers:
     title: "Teasers"
     description: "Por favor, mira los teasers oficiales y el tráiler en esta lista de reproducción de Idol Factory."
+  pilot:
+    title: "Piloto de la serie"
+    description: "Por favor, mira el episodio piloto de la serie aquí en el canal oficial de YouTube de las FDI. ¡Te encantará!"
   episodes:
     title: "Episodios SIN CORTES"
     description: "Por favor, mira la serie. Es de combustión lenta y puede hacerte sentir frustrado a veces, pero la química de FayMay es increíble, y la actuación de todo el elenco es brillante. Ver una vez no es suficiente, así que por favor mira toda la serie varias veces."
