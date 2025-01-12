@@ -368,6 +368,7 @@ swsh_series:
     title: "主要角色："
     description: "目前仅公布了主角。"
   table:
+    role: "Role"
     name: "姓名"
     full_name: "全名"
     instagram: "Instagram"

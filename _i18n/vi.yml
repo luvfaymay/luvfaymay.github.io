@@ -367,6 +367,7 @@ swsh_series:
     title: "Các diễn viên:"
     description: "Chỉ có các vai chính được công bố tính đến thời điểm hiện tại."
   table:
+    role: "Role"
     name: "Tên"
     full_name: "Tên đầy đủ"
     instagram: "Instagram"

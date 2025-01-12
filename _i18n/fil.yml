@@ -368,6 +368,7 @@ swsh_series:
     title: "Mga pangunahing papel:"
     description: "Ngayon, tanging ang mga pangunahing papel lamang ang naipahayag."
   table:
+    role: "Role"
     name: "Pangalan"
     full_name: "Buong Pangalan"
     instagram: "Instagram"

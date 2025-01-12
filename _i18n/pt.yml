@@ -368,6 +368,7 @@ swsh_series:
     title: "Papéis principais:"
     description: "Apenas os papéis principais foram anunciados até agora."
   table:
+    role: "Role"
     name: "Nome"
     full_name: "Nome Completo"
     instagram: "Instagram"

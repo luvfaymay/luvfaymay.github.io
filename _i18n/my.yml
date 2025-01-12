@@ -368,6 +368,7 @@ swsh_series:
     title: "အဓိကဇာတ်ကောင်များ -"
     description: "အခုအချိန်မှာ အဓိက အနုပညာရှင်များကိုသာ ကြေညာထားပါသေးသည်။"
   table:
+    role: "Role"
     name: "အမည်"
     full_name: "အမည်အပြည့်အစုံ"
     instagram: "Instagram"

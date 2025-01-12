@@ -15,6 +15,7 @@ global:
 
 # Navigation
 nav:
+  role: "Role"
   home: "Beranda"
   profiles: "Profil"
   fan_pages: "Halaman Penggemar"

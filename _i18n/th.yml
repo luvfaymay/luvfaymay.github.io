@@ -369,6 +369,7 @@ swsh_series:
     title: "นักแสดงนำ:"
     description: "ณ ขณะนี้มีเพียงนักแสดงนำที่ประกาศเท่านั้น"
   table:
+    role: "Role"
     name: "ชื่อ"
     full_name: "ชื่อเต็ม"
     instagram: "Instagram"

@@ -24,6 +24,7 @@ nav-menu: true
                 <table>
                     <thead>
                         <tr>
+                            <th scope="col">{{ site.translations[site.lang].swsh_series.table.role }}</th>
                             <th scope="col">{{ site.translations[site.lang].swsh_series.table.name }}</th>
                             <th scope="col">{{ site.translations[site.lang].swsh_series.table.full_name }}</th>
                             <th scope="col">{{ site.translations[site.lang].swsh_series.table.instagram }}</th>
@@ -91,8 +92,8 @@ nav-menu: true
             </div>
         </section>
         <section>
-            <div class="image">
-                <img src="{{ 'assets/images/swsh26.jpeg' | relative_url }}" alt="Pilot" data-position="center center">
+            <div class="video-embed">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/9p7jy0lF5ZA?si=3pawqzCsFjDv8WeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
             <div class="content">
                 <div class="inner">
@@ -100,9 +101,6 @@ nav-menu: true
                         <h3>{{ site.translations[site.lang].swsh_series.pilot.title }}</h3>
                     </header>
                     <p>{{ site.translations[site.lang].swsh_series.pilot.description }}</p>
-                    <div class="video-embed">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/9p7jy0lF5ZA?si=3pawqzCsFjDv8WeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    </div>
                 </div>
             </div>
         </section>
