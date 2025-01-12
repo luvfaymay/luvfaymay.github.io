@@ -113,11 +113,13 @@ carousel_images:
 {% assign series_name = site.translations[site.lang].global.series_name %}
 {% assign dreamgl = site.translations[site.lang].global.dreamgl %}
 {% assign dream_the_series = site.translations[site.lang].global.dream_the_series %}
+{% assign swshgl = site.translations[site.lang].global.swshgl %}
 
 <!-- Create links dynamically -->
 {% assign fay_link = '<a href="https://www.instagram.com/fay_riezz/">' | append: fay_name | append: '</a>' %}
 {% assign may_link = '<a href="https://www.instagram.com/maywyda/">' | append: may_name | append: '</a>' %}
 {% assign series_link = '<a href="https://youtube.com/playlist?list=PL4D0KlUVq4IyWIZVo-oo-rvYWPxX3WVn6&si=clukGQqa4Wdv9lgv">' | append: series_name | append: '</a>' %}
+{% assign swshgl_link = '<a href="https://x.com/SWSHGL2025">' | append: swshgl | append: '</a>' %}
 
 <!-- Replace placeholders with links -->
 {% assign actress_description = actress_description | replace: "{fay_name}", fay_link %}
@@ -128,6 +130,7 @@ carousel_images:
 {% assign series_description = series_description | replace: "{series_name}", series_link %}
 {% assign series_description = series_description | replace: "{dreamgl}", dreamgl %}
 {% assign series_description = series_description | replace: "{dream_the_series}", dream_the_series %}
+{% assign series_description = series_description | replace: "{swshgl}", swshgl %}
 
 {% assign combined_description = actress_description | append: " " | append: series_description %}
 
