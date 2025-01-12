@@ -1,4 +1,4 @@
-lang: en  # DONE
+lang: en
 
 # Global section
 global:
@@ -71,8 +71,8 @@ languages:
 
 # Home page content
 home:
-  actress_description: '{fay_name} and {may_name} are Thai GL actresses under {idol_factory}. Their on-screen couple name is {couple_name}.' 
-  series_description: 'Their first acting project as lead actresses is {series_name}, also known as {dreamgl} or {dream_the_series}. They are currently filming their second series, {swshgl}. Please follow them on their official social media accounts to get to know them more.'
+  actress_description: "{fay_name} and {may_name} are Thai GL actresses under {idol_factory}. Their on-screen couple name is {couple_name}." 
+  series_description: "Their first acting project as lead actresses is {series_name}, also known as {dreamgl} or {dream_the_series}. They are currently filming their second series, {swshgl}. Please follow them on their official social media accounts to get to know them more."
 
 # Profile page content
 profile:

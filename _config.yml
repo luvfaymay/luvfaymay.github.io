@@ -41,10 +41,6 @@ tiles-count: 10
 markdown: kramdown
 permalink: pretty
 
-# Sass
-sass:
-  style: compressed
-
 # Exclude from processing
 exclude:
   - "*.gemspec"
@@ -78,14 +74,14 @@ author:
 twitter:
   username: 4ever_Marvelous
 facebook:
-  app_id: 
-  publisher: 
-  admins: 
+  app_id: null
+  publisher: null
+  admins: null
 social:
   name: FayMay Fansite
   links:
-    - https://x.com/4ever_Marvelous
-    - https://www.youtube.com/channel/UCtYnoq_bBFItlEMXhRBnW6Q
+    - "https://x.com/4ever_Marvelous"
+    - "https://www.youtube.com/channel/UCtYnoq_bBFItlEMXhRBnW6Q"
 
 # Timezone
 timezone: Asia/Bangkok
