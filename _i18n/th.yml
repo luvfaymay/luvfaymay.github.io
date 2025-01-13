@@ -172,7 +172,6 @@ fan_pages:
     facebook: "Facebook"
     tiktok: "TikTok"
     official: "เป็นทางการ"
-    link: "Link"
   countries:
     brazil: "บราซิล"
     international: "นานาชาติ"
@@ -213,6 +212,7 @@ fan_creations:
     twitter: "Twitter"
     youtube: "YouTube"
     tiktok: "TikTok"
+    link: "Link"
   languages:
     english: "ภาษาอังกฤษ"
     thai_english: "ภาษาไทย/ภาษาอังกฤษ"

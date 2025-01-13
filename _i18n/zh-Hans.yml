@@ -171,7 +171,6 @@ fan_pages:
     facebook: "Facebook"
     tiktok: "外国抖音"
     official: "官方"
-    link: "链接"
   countries:
     brazil: "巴西"
     international: "国际"
@@ -212,6 +211,7 @@ fan_creations:
     twitter: "Twitter"
     youtube: "YouTube"
     tiktok: "抖音"
+    link: "链接"
   languages:
     english: "英语"
     thai_english: "泰语/英语"

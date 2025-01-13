@@ -172,7 +172,6 @@ fan_pages:
     facebook: "Facebook"
     tiktok: "TikTok"
     official: "Resmi"
-    link: "Tautan"
   countries:
     brazil: "Brazil"
     international: "International"
@@ -213,6 +212,7 @@ fan_creations:
     twitter: "Twitter"
     youtube: "YouTube"
     tiktok: "TikTok"
+    link: "Tautan"
   languages:
     english: "Inggris"
     thai_english: "Thailand/Inggris"

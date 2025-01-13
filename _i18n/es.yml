@@ -174,7 +174,6 @@ fan_pages:
     facebook: "Facebook"
     tiktok: "TikTok"
     official: "Oficial"
-    link: "Enlace"
   countries:
     thailand: "Tailandia"
     brazil: "Brasil"
@@ -215,6 +214,7 @@ fan_creations:
     twitter: "Twitter"
     youtube: "YouTube"
     tiktok: "TikTok"
+    link: "Enlace"
   languages:
     english: "Inglés"
     thai_english: "Tailandés/Inglés"
