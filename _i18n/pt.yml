@@ -171,6 +171,7 @@ fan_pages:
     facebook: "Facebook"
     tiktok: "TikTok"
     official: "Oficial"
+    link: "Link"
   countries:
     brazil: "Brasil"
     international: "Internacional"
@@ -194,6 +195,9 @@ fan_creations:
   fan_art:
     title: "Criadores de Fan Art"
     description: "Confira esta lista de criadores de fan art exibindo suas fantásticas obras de arte!"
+  fan_fic:
+    title: "Escritores de Fanfic"
+    description: "Confira esta lista de escritores de fanfic que criaram histórias maravilhosas sobre FayMay!"
   fan_edits:
     title: "Criadores de Vídeos Editados por Fãs"
     description: "Certifique-se de conferir esses incríveis criadores de vídeos de fãs e suas edições impressionantes!"

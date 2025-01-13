@@ -171,6 +171,7 @@ fan_pages:
     facebook: "Facebook"
     tiktok: "TikTok"
     official: "Opisyal"
+    link: "Link"
   countries:
     brazil: "Brazil"
     international: "International"
@@ -194,6 +195,9 @@ fan_creations:
   fan_art:
     title: "Mga Tagalikha ng Fan Art"
     description: "Tingnan ang listahang ito ng mga tagalikha ng fan art na nagpapakita ng kanilang kahanga-hangang artwork!"
+  fan_fic:
+    title: "Mga Manunulat ng Fanfic"
+    description: "Silipin ang listahang ito ng mga manunulat ng fanfic na lumikha ng mga kamangha-manghang kwento tungkol kay FayMay!"
   fan_edits:
     title: "Mga Tagalikha ng Fan Edit Video"
     description: "Tiyaking tingnan ang mga cool na gumagawa ng fan video na ito at ang kanilang kahanga-hangang mga edit!"

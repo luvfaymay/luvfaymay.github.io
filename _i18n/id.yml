@@ -172,6 +172,7 @@ fan_pages:
     facebook: "Facebook"
     tiktok: "TikTok"
     official: "Resmi"
+    link: "Tautan"
   countries:
     brazil: "Brazil"
     international: "International"
@@ -195,6 +196,9 @@ fan_creations:
   fan_art:
     title: "Pembuat Karya Seni Penggemar"
     description: "Lihat daftar pembuat karya seni penggemar yang menampilkan karya luar biasa mereka!"
+  fan_fic:
+    title: "Penulis Fanfiction"
+    description: "Periksa daftar penulis fanfiction ini yang telah menciptakan cerita-cerita indah tentang FayMay!"
   fan_edits:
     title: "Pembuat Video Edit Penggemar"
     description: "Pastikan untuk melihat pembuat video penggemar yang keren ini dan hasil kreasi mereka yang luar biasa!"

@@ -170,6 +170,7 @@ fan_pages:
     facebook: "Facebook"
     tiktok: "TikTok"
     official: "Chính thức"
+    link: "Liên kết"
   countries:
     brazil: "Brazil"
     international: "Quốc tế"
@@ -193,6 +194,9 @@ fan_creations:
   fan_art:
     title: "Fan Art Creators"
     description: "Hãy ngắm nhìn những tác phẩm tuyệt vời của các fan artist này!"
+  fan_fic:
+    title: "Những người viết fanfic"
+    description: "Hãy xem danh sách những người viết fanfic đã tạo ra những câu chuyện tuyệt vời về FayMay!"
   fan_edits:
     title: "Fan Edit Video Creators"
     description: "Hãy xem những video tuyệt vời do fan tạo ra!"

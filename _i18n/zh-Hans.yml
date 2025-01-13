@@ -171,6 +171,7 @@ fan_pages:
     facebook: "Facebook"
     tiktok: "外国抖音"
     official: "官方"
+    link: "链接"
   countries:
     brazil: "巴西"
     international: "国际"
@@ -194,6 +195,9 @@ fan_creations:
   fan_art:
     title: "粉丝艺术创作者"
     description: "看看这些展示精彩作品的粉丝艺术创作者列表！"
+  fan_fic:
+    title: "同人小说作者"
+    description: "查看这份同人小说作者的列表，他们创作了关于FayMay的精彩故事！"
   fan_edits:
     title: "粉丝剪辑视频创作者"
     description: "一定要看看这些酷炫的粉丝视频制作者和他们精彩的剪辑！"

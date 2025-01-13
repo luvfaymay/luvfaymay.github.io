@@ -170,6 +170,7 @@ fan_pages:
     facebook: "Facebook"
     tiktok: "TikTok"
     official: “တရားဝင်"
+    link: "လင့်ခ်"
   countries:
     brazil: "ဘရာဇီး"
     international: "နိုင်ငံတကာ"
@@ -193,6 +194,9 @@ fan_creations:
   fan_art:
     title: "Fan Art ဖန်တီးသူများ"
     description: "လက်ရာမြောက် Fan Art များကို ဖန်တီးလေ့ရှိသော ပရိသတ်များစာရင်း!"
+  fan_fic:
+    title: "Fan Fiction Writers"
+    description: "FayMay အကြောင်း fanfic ရေးသူများစာရင်း!"
   fan_edits:
     title: "ဗီဒီယိုတည်းဖြတ်ဖန်တီးသူများ"
     description: “FayMay နှင့်ပတ်သတ်သော အံ့ဩဖွယ်ဗီဒီယိုတည်းဖြတ်မှုများကို အောက်ပါ လင့်ခ်များမှတဆင့် ကြည့်ရှုနိုင်ပါတယ်!"

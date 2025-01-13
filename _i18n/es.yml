@@ -174,6 +174,7 @@ fan_pages:
     facebook: "Facebook"
     tiktok: "TikTok"
     official: "Oficial"
+    link: "Enlace"
   countries:
     thailand: "Tailandia"
     brazil: "Brasil"
@@ -197,6 +198,9 @@ fan_creations:
   fan_art:
     title: "Creadores de fan art"
     description: "¡Echa un vistazo a esta lista de creadores de fan art que muestran su fantástico trabajo artístico!"
+  fan_fic:
+    title: "Escritores de Fanfic"
+    description: "¡Consulta esta lista de escritores de fanfic que han creado maravillosas historias sobre FayMay!"
   fan_edits:
     title: "Creadores de videos editados por fans"
     description: "¡Asegúrate de ver a estos increíbles creadores de videos de fans y sus asombrosas ediciones!"

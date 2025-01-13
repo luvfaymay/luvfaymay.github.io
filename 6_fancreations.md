@@ -104,6 +104,37 @@ nav-menu: true
 		</section>
 		<section>
 			<div class="image">
+				<img src="{{ 'assets/images/portrait24.jpeg' | relative_url }}" alt="Fan Fiction Writers" data-position="center center">
+			</div>
+			<div class="content">
+				<div class="inner">
+					<header class="major">
+						<h3>{{ site.translations[site.lang].fan_creations.fan_fic.title }}</h3>
+					</header>
+					<p>{{ site.translations[site.lang].fan_creations.fan_fic.description }}</p>
+					<div class="table-wrapper">
+						<table>
+							<thead>
+								<tr>
+									<th scope="col">{{ site.translations[site.lang].fan_creations.table.language }}</th>
+									<th scope="col">{{ site.translations[site.lang].fan_creations.table.twitter }}</th>
+									<th scope="col">{{ site.translations[site.lang].fan_creations.table.link }}</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>{{ site.translations[site.lang].fan_creations.languages.english }}</td>
+									<td><a href="https://x.com/p_chi_GL">P’Chi :🤍) 🇮🇹🇪🇺🇯🇵</a></td>
+									<td><a href="https://archiveofourown.org/users/PChess/works">PChess</a></td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section>
+			<div class="image">
 				<img src="{{ 'assets/images/portrait18.jpeg' | relative_url }}" alt="Fan Edit" data-position="top center">
 			</div>
 			<div class="content">

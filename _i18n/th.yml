@@ -172,6 +172,7 @@ fan_pages:
     facebook: "Facebook"
     tiktok: "TikTok"
     official: "เป็นทางการ"
+    link: "Link"
   countries:
     brazil: "บราซิล"
     international: "นานาชาติ"
@@ -195,6 +196,9 @@ fan_creations:
   fan_art:
     title: "ผู้สร้างแฟนอาร์ต"
     description: "ลองดูรายชื่อผู้สร้างแฟนอาร์ตที่นำเสนอผลงานศิลปะที่ยอดเยี่ยมของพวกเขา!"
+  fan_fic:
+    title: "นักเขียนแฟนฟิค"
+    description: "ดูรายชื่อนักเขียนแฟนฟิคที่สร้างเรื่องราวอันยอดเยี่ยมเกี่ยวกับ FayMay!"
   fan_edits:
     title: "ผู้สร้างวิดีโอแฟนเอดิต"
     description: "อย่าลืมเช็คผู้สร้างวิดีโอแฟนเอดิตเหล่านี้และการตัดต่อที่สุดยอดของพวกเขา!"
