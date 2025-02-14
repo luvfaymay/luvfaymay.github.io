@@ -347,4 +347,28 @@ section#banner::after {
 	.video-banner .content {
 		padding: 1.5em;
 	}
+
+	.video-embed {
+		width: 90%;
+	}
+}
+
+/* Twitter Embed */
+.twitter-embed {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	margin: 20px 0;
+}
+
+/* Youtube Embed */
+.video-embed {
+	display: block;
+	margin: 20px auto;
+	max-width: 100%;
+	width: 100%;
+	aspect-ratio: 16/9;
+	height: auto;
+	min-height: 315px;
 }
