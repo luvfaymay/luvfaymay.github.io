@@ -213,7 +213,7 @@ nav-menu: true
             </div>
             <p>{{ site.translations[site.lang].swsh_series.pilot.description_1 }}</p>
             <div class="video-embed">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/9p7jy0lF5ZA?si=4MdUNVEXxB4LZB5L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/9p7jy0lF5ZA?si=4MdUNVEXxB4LZB5L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
             <p>{{ site.translations[site.lang].swsh_series.pilot.description_1_1 }}</p>
             <div class="twitter-embed">
@@ -225,7 +225,7 @@ nav-menu: true
             </div>
             <p>{{ site.translations[site.lang].swsh_series.pilot.description_3 }}</p>
             <div class="video-embed">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/UOfh4ki-7nc?si=NUivNjMqv12DER67" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                <iframe src="https://www.youtube.com/embed/UOfh4ki-7nc?si=NUivNjMqv12DER67" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
             <p>{{ site.translations[site.lang].swsh_series.pilot.description_4 }}</p>
             <div class="twitter-embed">

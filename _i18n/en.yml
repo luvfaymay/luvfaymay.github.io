@@ -80,14 +80,12 @@ profile:
   header: "FayMay Profiles"
   translation_status: ""
   welcome_message: "Welcome to FayMay Fansite. This page is maintained by international fans. We are glad that you are curious about FayMay and want to know more about them. We would like to request just five things from you."
-
   fan_requests:
     - "FayMay is one. Please learn to love them both."
     - "Please love and accept both Fay and May as who they are, not your idea of who they should be."
     - "Please respect and support their decisions, be it for work or personal life."
     - "Please respect their privacy and know our boundaries as fans and artists. They love to share their lives with us, but that doesn't mean we can overstep our boundaries. That includes their relationship with other people, be it other public figures or private citizens. Respect the relationship they have with others and give them their privacy."
     - "Please try not to amplify the voices of the haters, drown them out with love instead. Our fandom is built on love, but if someone means to cause harm, we will protect FayMay."
-
   fay:
     first_name: "Kunyaphat"
     family_name: "Na Nakorn"
@@ -105,7 +103,6 @@ profile:
     t_shirt_size: "S/M"
     wrist_size: "L:14cm R14.5cm"
     ring_size: "46, 48, 55, 52, 52, 50, 51, 52, 43, 40 mm (ordered from left pinkey finger to right pinky finger). Preferred to wear on middle finger."
-
   may:
     first_name: "Yada"
     family_name: "Watcharamusik"
@@ -123,6 +120,12 @@ profile:
     t_shirt_size: "S"
     wrist_size: "14cm"
     ring_size: "50mm. Index finger."
+  allmag: "All Magazine FayMay's interview"
+  allmag_description: "Please check out the translated interview of FayMay in All Magazine. It covers various topics about their personal lives and their acting career."
+  trend: "How to trend on Twitter"
+  trend_description: "Please check the video and learn how to trend on Twitter. Make sure to follow @trendf_FM on Twitter to keep up with the latest trend parties."
+  youtube: "Youtube Streaming Guide"
+  youtube_description: "Please check the infographic for the overview and the full post for the detailed guide."
 
 # Voting page content
 voting:

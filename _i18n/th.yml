@@ -123,6 +123,12 @@ profile:
     t_shirt_size: "S"
     wrist_size: "14 ซม."
     ring_size: "50 มม. นิ้วชี้"
+  allmag: "All Magazine FayMay's interview"
+  allmag_description: "Please check out the translated interview of FayMay in All Magazine. It covers various topics about their personal lives and their acting career."
+  trend: "How to trend on Twitter"
+  trend_description: "Please check the video and learn how to trend on Twitter. Make sure to follow @trendf_FM on Twitter to keep up with the latest trend parties."
+  youtube: "Youtube Streaming Guide"
+  youtube_description: "Please check the infographic for the overview and the full post for the detailed guide."
 
 # Voting page content
 voting:
