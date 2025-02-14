@@ -34,7 +34,7 @@ nav-menu: true
 					<tbody>
 						<tr>
 							<td>English - Original Content</td>
-							<td><a href="https://x.com/4ever_Marvelous">Forever Marvelous</a></td>
+							<td><a href="https://x.com/wintwho">Wint</a></td>
 						</tr>
 						<tr>
 							<td>English - Original Content Proofreading/Correction</td>

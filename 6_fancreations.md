@@ -280,7 +280,7 @@ nav-menu: true
 						</tr>
 						<tr>
 							<td>{{ site.translations[site.lang].fan_creations.languages.english }}</td>
-							<td><a href="https://x.com/4ever_Marvelous">Forever Marvelous</a></td>
+							<td><a href="https://x.com/wintwho">Wint</a></td>
 							<td><a href="https://www.youtube.com/@4ever_Marvelous">Forever Marvelous</a></td>
 							<td>&nbsp;</td>
 						</tr>
