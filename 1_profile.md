@@ -142,19 +142,15 @@ nav-menu: true
                 </div>
             </div>
         </section>
-        <section id="four">
-            <div class="content">
-                <div class="inner">
-                    <header class="major">
-                        <h3>{{ site.translations[site.lang].profile.valentine }}</h3>
-                    </header>
-                </div>
+    </section>
+    <section id="four">
+        <div class="inner">
+            <header class="major">
+                <h3>{{ site.translations[site.lang].profile.valentine }}</h3>
+            </header>
+            <div class="twitter-embed">
+                <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@fay_riezz/video/7471265206316829960" data-video-id="7471265206316829960" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@fay_riezz" href="https://www.tiktok.com/@fay_riezz?refer=embed">@fay_riezz</a> <p>ขอนุญาต1วันฮะ🙂‍↔️🌹</p> <a target="_blank" title="♬ เสียงต้นฉบับ  - ndaaa27_7" href="https://www.tiktok.com/music/เสียงต้นฉบับ-ndaaa277-7361286481580722945?refer=embed">♬ เสียงต้นฉบับ  - ndaaa27_7</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
             </div>
-            <div class="inner">
-                <div class="twitter-embed">
-                    <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@fay_riezz/video/7471265206316829960" data-video-id="7471265206316829960" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@fay_riezz" href="https://www.tiktok.com/@fay_riezz?refer=embed">@fay_riezz</a> <p>ขอนุญาต1วันฮะ🙂‍↔️🌹</p> <a target="_blank" title="♬ เสียงต้นฉบับ  - ndaaa27_7" href="https://www.tiktok.com/music/เสียงต้นฉบับ-ndaaa277-7361286481580722945?refer=embed">♬ เสียงต้นฉบับ  - ndaaa27_7</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
-                </div>
-            </div>
-        </section>
+        </div>
     </section>
 </div>
