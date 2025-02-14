@@ -93,6 +93,9 @@ nav-menu: true
                     <div class="twitter-embed">
                         <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">We are minutes away from our trend and we would like to remind everyone how we should do it! 💞<a href="https://twitter.com/hashtag/%E0%B9%80%E0%B8%9F%E0%B9%80%E0%B8%A1%E0%B8%A9%E0%B9%8C?src=hash&amp;ref_src=twsrc%5Etfw">#เฟเมษ์</a> <a href="https://twitter.com/hashtag/FayMay?src=hash&amp;ref_src=twsrc%5Etfw">#FayMay</a><a href="https://t.co/dBzSGgDxS9">pic.twitter.com/dBzSGgDxS9</a></p>&mdash; FAYMAY Interfan Squad (@faymayIFS) <a href="https://twitter.com/faymayIFS/status/1854477600133169250?ref_src=twsrc%5Etfw">November 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                     </div>
+                    <div class="twitter-embed">
+                        <blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">📣𝗙𝗮𝘆𝗠𝗮𝘆&#39;𝘀 𝗙𝗲𝗯𝗿𝘂𝗮𝗿𝘆 𝗦𝗰𝗵𝗲𝗱𝘂𝗹𝗲<br><br>Below is FAYMAY February work schedule for everyone to follow<br><br>⚠️The schedule may be subject to change as appropriate. <a href="https://twitter.com/hashtag/%E0%B9%80%E0%B8%9F%E0%B9%80%E0%B8%A1%E0%B8%A9%E0%B9%8C?src=hash&amp;ref_src=twsrc%5Etfw">#เฟเมษ์</a> <a href="https://twitter.com/hashtag/FayMay?src=hash&amp;ref_src=twsrc%5Etfw">#FayMay</a><a href="https://twitter.com/hashtag/fay_riezz?src=hash&amp;ref_src=twsrc%5Etfw">#fay_riezz</a> <a href="https://twitter.com/hashtag/maywyda?src=hash&amp;ref_src=twsrc%5Etfw">#maywyda</a> <a href="https://t.co/5XfGuMQRAt">pic.twitter.com/5XfGuMQRAt</a></p>&mdash; Trend For FAYMAY (@trendf_FM) <a href="https://twitter.com/trendf_FM/status/1885679057632886798?ref_src=twsrc%5Etfw">February 1, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                    </div>
                 </div>
             </div>
         </section>
@@ -136,6 +139,20 @@ nav-menu: true
                     <div class="twitter-embed">
                         <blockquote class="twitter-tweet" data-conversation="none" data-theme="dark"><p lang="ja" dir="ltr">Japanese Language Translation: <br>確認済みの事実（YouTube公式ドキュメントによる検証済み）<br>1.再生回数にカウントされる条件<br>oユーザーが意図的に動画を再生した場合、再生回数としてカウントされる。<br>oYouTubeは、必要な正確な再生時間を公開していない。…</p>&mdash; wint (@wintwho) <a href="https://twitter.com/wintwho/status/1882348533946450399?ref_src=twsrc%5Etfw">January 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                     </div>
+                </div>
+            </div>
+        </section>
+        <section id="four">
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                        <h3>{{ site.translations[site.lang].profile.valentine }}</h3>
+                    </header>
+                </div>
+            </div>
+            <div class="inner">
+                <div class="twitter-embed">
+                    <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@fay_riezz/video/7471265206316829960" data-video-id="7471265206316829960" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@fay_riezz" href="https://www.tiktok.com/@fay_riezz?refer=embed">@fay_riezz</a> <p>ขอนุญาต1วันฮะ🙂‍↔️🌹</p> <a target="_blank" title="♬ เสียงต้นฉบับ  - ndaaa27_7" href="https://www.tiktok.com/music/เสียงต้นฉบับ-ndaaa277-7361286481580722945?refer=embed">♬ เสียงต้นฉบับ  - ndaaa27_7</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
                 </div>
             </div>
         </section>
