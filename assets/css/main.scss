@@ -348,7 +348,7 @@ section#banner::after {
 		padding: 1.5em;
 	}
 
-	.video-embed {
+	.video-embed iframe {
 		width: 90%;
 	}
 }
@@ -364,8 +364,13 @@ section#banner::after {
 
 /* Youtube Embed */
 .video-embed {
-	display: block;
-	margin: 20px auto;
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	margin: 20px 0;
+}
+
+.video-embed iframe {
 	max-width: 100%;
 	width: 100%;
 	aspect-ratio: 16/9;

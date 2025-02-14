@@ -18,6 +18,7 @@ nav-menu: true
             <p><strong>{{ site.translations[site.lang].swsh_series.other_names }}</strong></p>
             <p>{{ site.translations[site.lang].swsh_series.follow }}<span class="vote-link"><a href="https://x.com/SWSHGL2025">{{ site.translations[site.lang].swsh_series.table.twitter }}</a></span>, <span class="vote-link"><a href="https://www.instagram.com/swshgl2025">{{ site.translations[site.lang].swsh_series.table.instagram }}</a></span>, <span class="vote-link"><a href="https://www.facebook.com/dreamglidf">{{ site.translations[site.lang].swsh_series.table.facebook }}</a></span>, <span class="vote-link"><a href="https://www.tiktok.com/@swshgl2025?_t=8qtHN2SkNYV&_r=1">{{ site.translations[site.lang].swsh_series.table.tiktok }}</a></span>.</p>
             <p>{{ site.translations[site.lang].swsh_series.suport }}<span class="vote-link"><a href="https://www.mebmarket.com/?action=book_details&book_id=343980">Meb English version Vol.1 </a></span>, <span class="vote-link"><a href="https://www.mebmarket.com/index.php?action=BookDetails&book_id=71560&page_no=1">Meb Thai version Vol.1 </a></span>, <span class="vote-link"><a href="https://www.mebmarket.com/?action=book_details&book_id=71561">Meb Thai version Vol.2 </a></span>, <span class="vote-link"><a href="https://www.readawrite.com/a/be08c42f43afd0a9e1e766c5c80a4b9f">ReadAwrite Thai version </a></span>, <span class="vote-link"><a href="https://www.readawrite.com/a/27a58c436e99f48f12f18f26a865463a">ReadAwrite English version </a></span></p>
+            <br>
             <header class="major">
                 <h3>{{ site.translations[site.lang].swsh_series.main_roles.title }}</h3>
             </header>
@@ -37,7 +38,7 @@ nav-menu: true
                     </thead>
                     <tbody>
                         <tr>
-                            <td>Pheem (Pheemanas)</td>
+                            <td>Peem (Peemanas)</td>
                             <td>May</td>
                             <td>Yada Watcharamusik</td>
                             <td><a href="https://www.instagram.com/maywyda/">@maywyda</a></td>
@@ -102,6 +103,7 @@ nav-menu: true
                     </tbody>
                 </table>
             </div>
+            <br>
             <header class="major">
                 <h3>{{ site.translations[site.lang].swsh_series.teasers.title }}</h3>
             </header>
@@ -188,7 +190,7 @@ nav-menu: true
                 <blockquote class="twitter-tweet" data-theme="dark"><p lang="th" dir="ltr">“𝐏𝐞𝐞𝐦 𝐄𝐱𝐩𝐥𝐨𝐬𝐢𝐨𝐧” กำลังจะมาทำให้หัวใจคุณเต้นแรงและขำจนท้องแข็งไปพร้อมกัน!<br><br>เรื่องราวสุดป่วนของคนขี้หึงแห่งปี ที่ทั้งหึงจัดแต่ปากแข็งสุดๆ ไม่ยอมบอกรักกันง่ายๆ จะทำให้คุณทั้งขำ ทั้งเขิน ทั้งอินจนหยุดดูไม่ได้! เมื่อ กีรัน (รับบทโดย เฟ กัญญาพัชร) สาวมาดนิ่ง ฟอร์มจัด… <a href="https://t.co/eZF8PuJlHj">pic.twitter.com/eZF8PuJlHj</a></p>&mdash; Somewhere Somehow รักปากแข็ง (@SWSHGL2025) <a href="https://twitter.com/SWSHGL2025/status/1876497727229673877?ref_src=twsrc%5Etfw">January 7, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
             <div class="twitter-embed">
-                <blockquote class="twitter-tweet" data-conversation="none"><p lang="qme" dir="ltr"><a href="https://twitter.com/hashtag/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#รักปากแข็ง</a> <a href="https://twitter.com/hashtag/SWSHGL?src=hash&amp;ref_src=twsrc%5Etfw">#SWSHGL</a><a href="https://twitter.com/hashtag/fay_riezz?src=hash&amp;ref_src=twsrc%5Etfw">#fay_riezz</a> <a href="https://twitter.com/hashtag/maywyda?src=hash&amp;ref_src=twsrc%5Etfw">#maywyda</a><a href="https://twitter.com/hashtag/%E0%B9%80%E0%B8%9F%E0%B9%80%E0%B8%A1%E0%B8%A9%E0%B9%8C?src=hash&amp;ref_src=twsrc%5Etfw">#เฟเมษ์</a> <a href="https://twitter.com/hashtag/FayMay?src=hash&amp;ref_src=twsrc%5Etfw">#FayMay</a> <a href="https://t.co/KzMa0Q3tsR">pic.twitter.com/KzMa0Q3tsR</a></p>&mdash; Somewhere Somehow รักปากแข็ง (@SWSHGL2025) <a href="https://twitter.com/SWSHGL2025/status/1876497730576761132?ref_src=twsrc%5Etfw">January 7, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                <blockquote class="twitter-tweet" data-theme="dark" data-conversation="none"><p lang="qme" dir="ltr"><a href="https://twitter.com/hashtag/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#รักปากแข็ง</a> <a href="https://twitter.com/hashtag/SWSHGL?src=hash&amp;ref_src=twsrc%5Etfw">#SWSHGL</a><a href="https://twitter.com/hashtag/fay_riezz?src=hash&amp;ref_src=twsrc%5Etfw">#fay_riezz</a> <a href="https://twitter.com/hashtag/maywyda?src=hash&amp;ref_src=twsrc%5Etfw">#maywyda</a><a href="https://twitter.com/hashtag/%E0%B9%80%E0%B8%9F%E0%B9%80%E0%B8%A1%E0%B8%A9%E0%B9%8C?src=hash&amp;ref_src=twsrc%5Etfw">#เฟเมษ์</a> <a href="https://twitter.com/hashtag/FayMay?src=hash&amp;ref_src=twsrc%5Etfw">#FayMay</a> <a href="https://t.co/KzMa0Q3tsR">pic.twitter.com/KzMa0Q3tsR</a></p>&mdash; Somewhere Somehow รักปากแข็ง (@SWSHGL2025) <a href="https://twitter.com/SWSHGL2025/status/1876497730576761132?ref_src=twsrc%5Etfw">January 7, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
             <p>{{ site.translations[site.lang].swsh_series.teasers.description_14 }}</p>
             <div class="twitter-embed">
@@ -201,6 +203,7 @@ nav-menu: true
             <div class="twitter-embed">
                 <blockquote class="twitter-tweet" data-theme="dark"><p lang="th" dir="ltr">เก๋ากี้และคุณหนูภีม รอเจอทุกคนวันพรุ่งนี้นะคะ<br><br>ใครที่ไม่ได้มา เจอกันในไลฟ์ที่ Youtube นะคะ 🥰<a href="https://twitter.com/hashtag/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#รักปากแข็ง</a> <a href="https://twitter.com/hashtag/SWSHGL?src=hash&amp;ref_src=twsrc%5Etfw">#SWSHGL</a><a href="https://twitter.com/hashtag/fay_riezz?src=hash&amp;ref_src=twsrc%5Etfw">#fay_riezz</a> <a href="https://twitter.com/hashtag/maywyda?src=hash&amp;ref_src=twsrc%5Etfw">#maywyda</a><a href="https://twitter.com/hashtag/%E0%B9%80%E0%B8%9F%E0%B9%80%E0%B8%A1%E0%B8%A9%E0%B9%8C?src=hash&amp;ref_src=twsrc%5Etfw">#เฟเมษ์</a> <a href="https://twitter.com/hashtag/FayMay?src=hash&amp;ref_src=twsrc%5Etfw">#FayMay</a><a href="https://twitter.com/hashtag/idolfactoryTH?src=hash&amp;ref_src=twsrc%5Etfw">#idolfactoryTH</a> <a href="https://t.co/l95wZoTq3l">pic.twitter.com/l95wZoTq3l</a></p>&mdash; Somewhere Somehow รักปากแข็ง (@SWSHGL2025) <a href="https://twitter.com/SWSHGL2025/status/1878033317527711798?ref_src=twsrc%5Etfw">January 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
+            <br>
             <header class="major">
                 <h3>{{ site.translations[site.lang].swsh_series.pilot.title }}</h3>
             </header>
