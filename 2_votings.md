@@ -25,51 +25,29 @@ nav-menu: true
     <section id="two" class="spotlights">
         <section>
             <div class="image">
-                <img src="{{ 'assets/images/hubaward.jpeg' | relative_url }}" alt="hubaward" data-position="center center">
+                <img src="{{ 'assets/images/thaiupdate.jpg' | relative_url }}" alt="thaiupdate" data-position="center center">
             </div>
             <div class="content">
                 <div class="inner">
                     <header class="major">
-                        <h3>{% t voting.hub_award.title %}</h3>
+                        <h3>{% t voting.thaiupdate.title %}</h3>
                     </header>
-                    <p>{% t voting.hub_award.description %} <a class="vote-link" href="https://awards.girlslovehub.com/#Vote">{% t voting.hub_award.vote_link %}</a></p>
-                    <p>{% t voting.hub_award.notes %} <a class="vote-link" href="https://x.com/FayMayOfficial/status/1877998938378358836">{% t voting.hub_award.notes_link %}</a></p>
-                </div>
-            </div>
-        </section>
-        <!-- <section>
-            <div class="image">
-                <img src="{{ 'assets/images/votekazz.png' | relative_url }}" alt="kazz" data-position="center center">
-            </div>
-            <div class="content">
-                <div class="inner">
-                    <header class="major">
-                        <h3>{% t voting.kazz_awards.title %}</h3>
-                    </header>
-                    <p>{% t voting.kazz_awards.description %}</p>
-                    <ol>
-                        {% for voting_rule in site.translations[site.lang].voting.kazz_awards.voting_rules %}
-                            <li>{{ voting_rule }}</li>
-                        {% endfor %}
-                    </ol>
-                    <p>{% t voting.kazz_awards.vote_link_desc1 %} <a class="vote-link" href="https://worldwide.kazzmarket.com/product/vote-saowaisai-2024/">{% t voting.kazz_awards.vote_link1 %}</a></p>
-                    <p>{% t voting.kazz_awards.vote_link_desc2 %} <a class="vote-link" href="https://today.line.me/th/v2/poll/JPmrlmM">{% t voting.kazz_awards.vote_link2 %}</a></p>
-                    <p>{% t voting.kazz_awards.notes %} <a class="vote-link" href="https://x.com/4ever_Marvelous/status/1838082471415755176">{% t voting.kazz_awards.notes_link %}</a></p>
+                    <p>{% t voting.thaiupdate.description %} <a class="vote-link" href="https://www.thaiupdate.info/couple-bromance-award-final/">{% t voting.thaiupdate.vote_link %}</a></p>
                 </div>
             </div>
         </section>
         <section>
             <div class="image">
-                <img src="{{ 'assets/images/starfocus.jpeg' | relative_url }}" alt="starfocus" data-position="center center">
+                <img src="{{ 'assets/images/vday.jpeg' | relative_url }}" alt="thaiupdate" data-position="center center">
             </div>
             <div class="content">
                 <div class="inner">
                     <header class="major">
-                        <h3>{% t voting.starfocus.title %}</h3>
+                        <h3>{% t voting.acervogl.title %}</h3>
                     </header>
-                    <p>{% t voting.starfocus.description %} <a class="vote-link" href="https://www.starfocus.online/spu/704796635758186497">{% t common.vote_for_them %}</a></p>
+                    <p>{% t voting.acervogl.description %} <a class="vote-link" href="https://x.com/glacervo/status/1891631265964556349">{% t voting.acervogl.vote_link %}</a></p>
                 </div>
             </div>
-        </section> -->
+        </section>
     </section>
 </div>

@@ -136,31 +136,14 @@ voting:
   instructions:
     - "Please try to keep both of them to have the same vote counts."
     - "Please don't use automated tools. We wouldn't want them to get disqualified."
-  starfocus:
-    title: "Star Focus - 2024 THE MOST BEAUTIFUL FACE IN ASIA PACIFIC"
-    description: "The voting period is from Oct 30 2024 24:00 BKK Time. For each email, at the first login, you can get 300 free tickets by joining Fay&May artist house. For daily, one email can get 6 free tickets: 3 free tickets from the daily login and 3 free tickets from sharing on Twitter. Free tickets will be cleared every Thursday at 00:00 BKK. Please "
+  thaiupdate:
+    title: "The Best Couple and Bromance Award (Final)"
+    description: "The voting period is from Feb 16 2025 to Mar 03 2025 15:00 BKK Time. You can vote every 5 mins. Please "
     vote_link: "vote for them."
-  hub_award:
-    title: "HUB AWARDS 2024"
-    description: "The voting period runs until February 1st, 9:59 BKK time. FayMay Official and FreenBecky_Ranking VN (@fbrankingvn) are collaborating for Hub Awards. We encourage you to vote for FreenBecky in Couple of the Year category and FayMay in Rookie Couple of the Year category. To participate, please take a screenshot and comment under FayMay Official's post with the hashtag HubAwardxFayMayxFreenBecky. Please "
+  acervogl:
+    title: "The best Valentine's Day photos"
+    description: "The voting result will be announced on Feb 19, 19:00 BKK time. Please "
     vote_link: "vote for them."
-    notes: "Please "
-    notes_link: "check the full post from FayMay official here."
-  kazz_awards:
-    title: "KAZZ AWARDS - Youth Idol of the Year 2024"
-    description: "The voting period is from <strong>Sept 23 to Nov 03 2024 24:00 BKK Time</strong>. This award is important for FayMay. The top 5 artists with the highest votes will receive the Young Sweetheart of the Year award at the KAZZ AWARDS 2025 and will also appear solo on the cover of KAZZ MAGAZINE. We need both of them to be in top 5. This will be difficult for us, but I believe we can do it. We have to try. Voting Rules: "
-    voting_rules: 
-      - "Voting through the website cost 5 baht per vote, but you can vote unlimitedly."
-      - "Voting with Line account is free, but you can only vote once per day. You can use Line account from all regions."
-      - "The cumulative total is 50% from website vote and 50% from Line vote."
-      - "Weekly results will reflect the cumulative total of all votes."
-      - "The website link is different for locals and for foreigners. The link below is for foreigners."
-    vote_link_desc1: "This will cost 5 baht per vote but you can vote unlimitedly. Please "
-    vote_link1: "vote for them through the website for foreigners."
-    vote_link_desc2: "This is free vote, but only one vote per day, per Line account. Please "
-    vote_link2: "vote for them using Line account."
-    notes: "Please "
-    notes_link: "check the full post here."
 
 # Fan Pages content
 fan_pages:
