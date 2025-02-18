@@ -139,34 +139,15 @@ voting:
   instructions:
     - "Por favor, intenta mantener el mismo número de votos para ambas."
     - "Por favor, no uses herramientas automatizadas. No querríamos que fueran descalificadas."
-  
-  starfocus:
-    title: "Star Focus - 2024 THE MOST BEAUTIFUL FACE IN ASIA PACIFIC"
-    description: "El período de votación es desde el 30 de octubre de 2024 a las 24:00 hora de Bangkok. Por cada correo electrónico, en el primer inicio de sesión, puedes obtener 300 boletos gratis al unirte a la casa de artistas Fay&May. Diariamente, un correo electrónico puede obtener 6 boletos gratis: 3 boletos gratis por el inicio de sesión diario y 3 boletos gratis por compartir en Twitter. Los boletos gratis se borrarán todos los jueves a las 00:00 hora de Bangkok. Por favor"
-    vote_link: "vota por ellas"
-  
-  hub_award:
-    title: "HUB AWARDS 2024"
-    description: 'El período de votación se extiende hasta el 1 de febrero, 9:59 hora de Bangkok. FayMay Official y FreenBecky_Ranking VN (@fbrankingvn) están colaborando para los Hub Awards. Las animamos a votar por FreenBecky en la categoría "Pareja del Año" y por FayMay en la categoría "Pareja Revelación del Año". Para participar, por favor tomen una captura de pantalla y comenten en la publicación de FayMay Official con el hashtag HubAwardxFayMayxFreenBecky. Por favor'
-    vote_link: "vota por ellas"
-    notes: "Por favor "
-    notes_link: "consulten la publicación completa de FayMay Official aquí."
-  
-  kazz_awards:
-    title: "KAZZ AWARDS - Youth Idol of the Year 2024"
-    description: "El período de votación es desde el <strong>23 de septiembre hasta el 03 de noviembre de 2024 a las 24:00 hora de Bangkok</strong>. Este premio es importante para FayMay. Las 5 artistas con más votos recibirán el premio Joven Encanto del Año en los KAZZ AWARDS 2025 y también aparecerán en solitario en la portada de KAZZ MAGAZINE. Necesitamos que ambas estén en el top 5. Esto será difícil para nosotras, pero creo que podemos lograrlo. Tenemos que intentarlo. Reglas de votación:"
-    voting_rules: 
-      - "La votación a través del sitio web cuesta 5 baht por voto, pero puedes votar sin límite."
-      - "La votación con cuenta Line es gratuita, pero solo puedes votar una vez al día. Puedes usar cuenta Line de todas las regiones."
-      - "El total acumulado es 50% de los votos del sitio web y 50% de los votos de Line."
-      - "Los resultados semanales reflejarán el total acumulado de todos los votos."
-      - "El enlace del sitio web es diferente para locales y para extranjeros. El enlace de abajo es para extranjeros."
-    vote_link_desc1: "Esto costará 5 baht por voto pero puedes votar sin límite. Por favor"
-    vote_link1: "vota por ellas a través del sitio web para extranjeras."
-    vote_link_desc2: "Esta es una votación gratuita, pero solo un voto por día, por cuenta Line. Por favor"
-    vote_link2: "Vota por ellas usando la cuenta de Line."
-    notes: "Por favor "
-    notes_link: "Revisa la publicación completa aquí."
+  thaiupdate:
+    title: "El Mejor Premio a la Pareja y Bromance (Final)"
+    description: "El período de votación es del 16 de febrero de 2025 al 03 de marzo de 2025 a las 15:00 hora de BKK. Puedes votar cada 5 minutos. Por favor "
+    vote_link: "vota por ellas."
+  acervogl:
+    title: "Las mejores fotos del Día de San Valentín"
+    description: "El resultado de la votación se anunciará el 19 de febrero a las 19:00 hora de BKK. Por favor "
+    vote_link: "vota por ellas."
+
 
 # Fan Pages content
 fan_pages:

@@ -140,31 +140,14 @@ voting:
   instructions:
     - "Mohon usahakan agar keduanya memiliki jumlah suara yang sama."
     - "Mohon jangan menggunakan alat bantu otomatis untuk menaikkan jumlah suara. Kita tidak ingin mereka didiskualifikasi."
-  starfocus:
-    title: "Star Focus - 2024 THE MOST BEAUTIFUL FACE IN ASIA PACIFIC"
-    description: "Periode pemungutan suara adalah dari 30 Oktober 2024 pukul 24:00 Waktu BKK. Untuk setiap email, pada login pertama, Anda dapat mendapatkan 300 tiket gratis dengan bergabung di rumah seniman Fay&May. Setiap hari, satu email dapat mendapatkan 6 tiket gratis: 3 tiket gratis dari login harian dan 3 tiket gratis dari berbagi di Twitter. Tiket gratis akan dihapus setiap Kamis pukul 00:00 Waktu BKK. Silakan "
-    vote_link: "berikan suara untuk mereka."
-  hub_award:
-    title: "HUB AWARDS 2024"
-    description: 'Periode pemungutan suara berlangsung hingga 1 Februari, pukul 09:59 waktu Bangkok. FayMay Official dan FreenBecky_Ranking VN (@fbrankingvn) berkolaborasi untuk Hub Awards. Kami mengajak Anda untuk memilih FreenBecky dalam kategori "Couple of the Year" dan FayMay dalam kategori "Rookie Couple of the Year". Untuk berpartisipasi, silakan ambil tangkapan layar dan berikan komentar di postingan FayMay Official dengan tagar HubAwardxFayMayxFreenBecky. Silakan '
-    vote_link: "berikan suara untuk mereka."
-    notes: "Silakan "
-    notes_link: "periksa postingan lengkap dari FayMay Official di sini."
-  kazz_awards:
-    title: "KAZZ AWARDS - Youth Idol of the Year 2024"
-    description: "Periode pemungutan suara adalah dari <strong>23 September hingga 3 November 2024 pukul 24:00 Waktu BKK</strong>. Penghargaan ini penting bagi FayMay. 5 artis dengan suara tertinggi akan menerima penghargaan Young Sweetheart of the Year di KAZZ AWARDS 2025 dan juga akan tampil solo di sampul KAZZ MAGAZINE. Kita perlu keduanya berada di 5 besar. Ini akan sulit bagi kita, tetapi saya percaya kita bisa melakukannya. Kita harus mencoba. Aturan Pemungutan Suara: "
-    voting_rules: 
-      - "Pemungutan suara melalui situs web biaya 5 baht per suara, tetapi Anda dapat memberikan suara tanpa batas."
-      - "Pemungutan suara dengan akun Line gratis, tetapi Anda hanya dapat memberikan suara sekali per hari. Anda dapat menggunakan akun Line dari semua wilayah."
-      - "Total kumulatif adalah 50% dari suara situs web dan 50% dari suara Line."
-      - "Hasil mingguan akan mencerminkan total kumulatif dari semua suara."
-      - "Tautan situs web berbeda untuk penduduk lokal dan untuk orang asing. Tautan di bawah ini adalah untuk orang asing."
-    vote_link_desc1: "Ini akan dikenakan biaya 5 baht per suara tetapi Anda dapat memberikan suara tanpa batas. Silakan "
-    vote_link1: "berikan suara untuk mereka melalui situs web untuk orang asing."
-    vote_link_desc2: "Ini adalah pemungutan suara gratis, tetapi hanya satu suara per hari, per akun Line. Silakan "
-    vote_link2: "berikan suara untuk mereka menggunakan akun Line."
-    notes: "Silakan "
-    notes_link: "periksa pos lengkap di sini."
+  thaiupdate:
+    title: "Penghargaan Pasangan Terbaik dan Bromance (Final)"
+    description: "Periode pemungutan suara berlangsung dari 16 Feb 2025 hingga 03 Mar 2025 pukul 15:00 Waktu BKK. Anda dapat memberikan suara setiap 5 menit. Silakan "
+    vote_link: "pilih mereka."
+  acervogl:
+    title: "Foto Terbaik Hari Valentine"
+    description: "Hasil pemungutan suara akan diumumkan pada 19 Feb, pukul 19:00 Waktu BKK. Silakan "
+    vote_link: "pilih mereka."
 
 # Fan Pages content
 fan_pages:

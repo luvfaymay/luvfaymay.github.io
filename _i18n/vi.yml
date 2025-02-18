@@ -139,31 +139,14 @@ voting:
   instructions:
     - "Hãy cố gắng giữ cho cả hai có lượt vote ngang nhau."
     - "Hãy tránh sử dụng các công cụ tự động. Chúng ta không muốn họ bị loại."
-  starfocus:
-    title: "Star Focus - 2024 THE MOST BEAUTIFUL FACE IN ASIA PACIFIC"
-    description: "Thời gian bỏ phiếu là từ 00:00 ngày 30 tháng 10 năm 2024 theo giờ BKK. Đối với mỗi email, khi đăng nhập lần đầu, bạn có thể nhận 300 vé miễn phí bằng cách tham gia nhà nghệ sĩ Fay&May. Mỗi ngày, một email có thể nhận 6 vé miễn phí: 3 vé miễn phí từ việc đăng nhập hàng ngày và 3 vé miễn phí từ việc chia sẻ trên Twitter. Vé miễn phí sẽ được xóa mỗi thứ Năm lúc 00:00 theo giờ BKK. Vui lòng "
+  thaiupdate:
+    title: "Giải Thưởng Cặp Đôi và Bromance Xuất Sắc Nhất (Chung Kết)"
+    description: "Thời gian bình chọn từ ngày 16 tháng 2 năm 2025 đến ngày 03 tháng 3 năm 2025 lúc 15:00 theo giờ BKK. Bạn có thể bình chọn mỗi 5 phút. Vui lòng "
     vote_link: "bình chọn cho họ."
-  hub_award:
-    title: "HUB AWARDS 2024"
-    description: 'Thời gian bình chọn kéo dài đến 9:59 (giờ Bangkok) ngày 1 tháng 2. FayMay Official và FreenBecky_Ranking VN (@fbrankingvn) đang hợp tác cho Hub Awards. Mời bạn bình chọn cho FreenBecky ở hạng mục "Cặp đôi của năm" và FayMay ở hạng mục "Cặp đôi tân binh của năm". Để tham gia, hãy chụp màn hình và bình luận dưới bài đăng của FayMay Official với hashtag HubAwardxFayMayxFreenBecky. Vui lòng '
+  acervogl:
+    title: "Những Bức Ảnh Ngày Valentine Đẹp Nhất"
+    description: "Kết quả bình chọn sẽ được công bố vào ngày 19 tháng 2 lúc 19:00 theo giờ BKK. Vui lòng "
     vote_link: "bình chọn cho họ."
-    notes: "Vui lòng "
-    notes_link: "kiểm tra bài đăng đầy đủ tại trang chính thức của FayMay tại đây."
-  kazz_awards:
-    title: "KAZZ AWARDS - Youth Idol of the Year 2024"
-    description: "Thời gian bỏ phiếu là từ <strong>23 tháng 9 đến 03 tháng 11 năm 2024, lúc 00:00 theo giờ BKK</strong>. Giải thưởng này rất quan trọng đối với FayMay. 5 nghệ sĩ có số phiếu bầu cao nhất sẽ nhận giải Young Sweetheart of the Year tại KAZZ AWARDS 2025 và cũng sẽ xuất hiện solo trên bìa của KAZZ MAGAZINE. Chúng ta cần cả hai họ nằm trong top 5. Điều này sẽ khó khăn cho chúng ta, nhưng tôi tin rằng chúng ta có thể làm được. Chúng ta phải cố gắng. Quy tắc bỏ phiếu:"
-    voting_rules: 
-      - "Bỏ phiếu qua website tốn 5 baht mỗi phiếu, nhưng bạn có thể bỏ phiếu không giới hạn."
-      - "Bỏ phiếu bằng tài khoản Line là miễn phí, nhưng bạn chỉ có thể bỏ phiếu một lần mỗi ngày. Bạn có thể sử dụng tài khoản Line từ tất cả các khu vực."
-      - "Tổng cộng tích lũy là 50% từ phiếu bầu qua website và 50% từ phiếu bầu qua Line."
-      - "Kết quả hàng tuần sẽ phản ánh tổng số phiếu tích lũy."
-      - "Liên kết website khác nhau cho người địa phương và người nước ngoài. Liên kết bên dưới là dành cho người nước ngoài."
-    vote_link_desc1: "Điều này sẽ tốn 5 baht mỗi phiếu nhưng bạn có thể bỏ phiếu không giới hạn. Vui lòng "
-    vote_link1: "bỏ phiếu cho họ qua website dành cho người nước ngoài."
-    vote_link_desc2: "Đây là phiếu bầu miễn phí, nhưng chỉ một phiếu mỗi ngày, mỗi tài khoản Line. Vui lòng "
-    vote_link2: "bỏ phiếu cho họ bằng tài khoản Line."
-    notes: "Vui lòng "
-    notes_link: "kiểm tra bài viết đầy đủ ở đây."
 
 # Fan Pages content
 fan_pages:

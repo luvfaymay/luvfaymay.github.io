@@ -139,31 +139,14 @@ voting:
   instructions:
     - "Maaaring subukang panatilihin na pareho ang bilang ng boto para sa kanilang dalawa."
     - "Maaaring huwag gumamit ng mga automated na tool. Ayaw nating sila ay ma-disqualify."
-  starfocus:
-    title: "Star Focus - 2024 THE MOST BEAUTIFUL FACE IN ASIA PACIFIC"
-    description: "Ang panahon ng pagboto ay magsisimula sa Oktubre 30, 2024 24:00 oras ng Bangkok. Para sa bawat email, sa unang pag-login, makakakuha ka ng 300 libreng ticket sa pamamagitan ng pagsali sa artist house nina Fay at May. Sa pang-araw-araw, ang bawat email ay makakakuha ng 6 na libreng ticket: 3 libreng ticket mula sa pang-araw-araw na pag-login at 3 libreng ticket mula sa pagbabahagi sa Twitter. Ang mga libreng ticket ay mabubura tuwing Huwebes ng 00:00 oras ng Bangkok. Mangyaring "
+  thaiupdate:
+    title: "Ang Pinakamahusay na Gantimpala para sa Magkasintahan at Bromance (Final)"
+    description: "Ang panahon ng pagboto ay mula Peb 16 2025 hanggang Mar 03 2025 15:00 BKK Time. Maaari kang bumoto bawat 5 minuto. Pakiusap "
     vote_link: "bumoto para sa kanila."
-  hub_award:
-    title: "HUB AWARDS 2024"
-    description: "Ang botohan ay magtatapos sa February 1, 9:59 oras ng BKK. Nakikipagtulungan ang FayMay Official at FreenBecky_Ranking VN (@fbrankingvn) para sa Hub Awards. Hinihikayat namin kayo na bumoto kay FreenBecky sa kategoryang 'Couple of the Year' at kay FayMay sa 'Rookie Couple of the Year'. Para makasali, kumuha ng screenshot at mag-comment sa ilalim ng post ng FayMay Official gamit ang hashtag na HubAwardxFayMayxFreenBecky. Mangyaring "
+  acervogl:
+    title: "Ang pinakamahusay na mga larawan sa Araw ng mga Puso"
+    description: "Ang resulta ng pagboto ay iaanunsyo sa Peb 19, 19:00 BKK oras. Pakiusap "
     vote_link: "bumoto para sa kanila."
-    notes: "Mangyaring  "
-    notes_link: "tingnan ang kumpletong post mula sa FayMay Official dito."
-  kazz_awards:
-    title: "KAZZ AWARDS - Youth Idol of the Year 2024"
-    description: "Ang panahon ng pagboto ay mula <strong>Setyembre 23 hanggang Nobyembre 03, 2024 24:00 oras ng Bangkok</strong>. Ang parangal na ito ay mahalaga para kina Fay at May. Ang 5 mga artista na may pinakamataas na boto ay tatanggap ng parangal na Young Sweetheart of the Year sa KAZZ AWARDS 2025 at magkakaroon din ng solo sa pabalat ng KAZZ MAGAZINE. Kailangan nating mapasama silang dalawa sa top 5. Mahirap ito para sa atin, ngunit naniniwala ako na kaya natin ito. Dapat nating subukin. Mga Patakaran sa Pagboto: "
-    voting_rules: 
-      - "Ang pagboto sa pamamagitan ng website ay nagkakahalaga ng 5 baht bawat boto, ngunit walang limitasyon sa pagboto."
-      - "Ang pagboto gamit ang Line account ay libre, ngunit maaari ka lamang bumoto ng isang beses sa isang araw. Maaari kang gumamit ng Line account mula sa lahat ng rehiyon."
-      - "Ang kabuuang pagbilang ay 50% mula sa boto sa website at 50% mula sa boto sa Line."
-      - "Ang lingguhang resulta ay magpapakita ng kabuuang bilang ng lahat ng boto."
-      - "Ang link ng website ay magkaiba para sa mga lokal at para sa mga dayuhan. Ang link sa ibaba ay para sa mga dayuhan."
-    vote_link_desc1: "Ito ay magkakahalaga ng 5 baht bawat boto ngunit maaari kang bumoto nang walang limitasyon. Mangyaring"
-    vote_link1: "bumoto para sa kanila sa pamamagitan ng website para sa mga dayuhan."
-    vote_link_desc2: "Ito ay libreng boto, ngunit isang boto lamang bawat araw, bawat Line account. Pakiusap "
-    vote_link2: "iboto sila gamit ang Line account."
-    notes: "Pakisuyo "
-    notes_link: "suriin ang buong post dito."
 
 # Fan Pages content
 fan_pages:

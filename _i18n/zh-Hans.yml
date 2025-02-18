@@ -134,36 +134,19 @@ profile:
 # Voting page content
 voting:
   title: "正在进行的投票"
-  translation_status: "机器翻译。待我们的翻译员翻译和校对。"
+  translation_status: "机器翻译。待我们的翻译员翻译和校对。" 
   description: "所有正在进行的投票活动都会在这个页面上分享。如果你有时间，请尽可能多地参与投票。这是表达我们对 FayMay 的爱的方式。"
   instructions:
     - "请尽量保持她们两人的票数相同。"
     - "请不要使用自动化工具。我们不希望她们被取消资格。"
-  starfocus:
-    title: "Star Focus - 2024 THE MOST BEAUTIFUL FACE IN ASIA PACIFIC"
-    description: "投票时间为2024年10月30日24:00（曼谷时间）。每个邮箱在首次登录时，可以通过加入Fay&May艺术之家获得300张免费票。每日，每个邮箱可以获得6张免费票：3张来自每日登录，3张来自在Twitter上分享。免费票将在每周四的00:00（曼谷时间）清空。请 "
-    vote_link: "为他们投票。"
-  hub_award:
-    title: "HUB AWARDS 2024"
-    description: '投票时间持续至2月1日曼谷时间9:59。FayMay官方和FreenBecky_Ranking越南 (@fbrankingvn) 正在为Hub Awards合作。诚邀您为"年度情侣"类别投票支持FreenBecky，为"年度新人情侣"类别投票支持FayMay。参与方式：请截图并在FayMay官方帖子下评论，使用标签HubAwardxFayMayxFreenBecky。 请 '
-    vote_link: "为他们投票。"
-    notes: "请"
-    notes_link: "请在这里查看FayMay官方完整帖文。"
-  kazz_awards:
-    title: "KAZZ AWARDS - Youth Idol of the Year 2024"
-    description: "投票时间为<strong>2024年9月23日至11月3日24:00（曼谷时间）</strong>。这个奖项对FayMay来说非常重要。获得最高票数的前五位艺术家将于KAZZ AWARDS 2025上获得年度年轻甜心奖，并将在KAZZ MAGAZINE的封面上单独亮相。我们需要她们两个都进入前五名。这对我们来说将是一个挑战，但我相信我们可以做到。我们必须努力。投票规则： "
-    voting_rules: 
-      - "通过网站投票每票需花费5泰铢，但您可以无限制投票。"
-      - "使用Line账户投票是免费的，但您每天只能投一次。您可以从所有地区使用Line账户。"
-      - "累计总票数为网站投票的50%和Line投票的50%。"
-      - "每周结果将反映所有投票的累计总数。"
-      - "本地人和外国人的网站链接不同。以下链接是针对外国人的。"
-    vote_link_desc1: "每票将花费5泰铢，但您可以无限制投票。请 "
-    vote_link1: "通过外国人网站为他们投票。"
-    vote_link_desc2: "这是免费的投票，但每个Line账户每天只能投一次。 请 "
-    vote_link2: "使用Line账户为他们投票。"
-    notes: "请 "
-    notes_link: "在这里查看完整帖子。"
+  thaiupdate:
+    title: "最佳情侣和兄弟情谊奖（决赛）"
+    description: "投票期间为2025年2月16日至3月3日曼谷时间15:00。您可以每5分钟投票一次。请"
+    vote_link: "为她们投票。"
+  acervogl:
+    title: "最佳情人节照片"
+    description: "投票结果将于2月19日曼谷时间19:00公布。请"
+    vote_link: "为她们投票。"
 
 # Fan Pages content
 fan_pages:
