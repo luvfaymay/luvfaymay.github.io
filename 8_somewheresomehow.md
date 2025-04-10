@@ -38,7 +38,7 @@ nav-menu: true
                     </thead>
                     <tbody>
                         <tr>
-                            <td>Peem (Peemanas)</td>
+                            <td>Pheem (Pheemanas)</td>
                             <td>May</td>
                             <td>Yada Watcharamusik</td>
                             <td><a href="https://www.instagram.com/maywyda/">@maywyda</a></td>
@@ -78,7 +78,7 @@ nav-menu: true
                             <td>Namneung</td>
                             <td>Milin Dokthian</td>
                             <td><a href="https://www.instagram.com/milinnn.d/">@milinnn.d</a></td>
-                            <td>&nbsp;</td>
+                            <td><a href="https://x.com/Milinyahhhh">@Milinyahhhh</a></td>
                             <td><a href="https://www.tiktok.com/@milin.d">@milin.d</a></td>
                             <td>#NamneungMilinD</td>
                         </tr>
@@ -86,9 +86,9 @@ nav-menu: true
                             <td>Yumi</td>
                             <td>Kaimook</td>
                             <td>Warattaya Deesomlert</td>
+                            <td><a href="https://www.instagram.com/kai.moooook/">@kai.moooook</a></td>
                             <td>&nbsp;</td>
-                            <td>&nbsp;</td>
-                            <td>&nbsp;</td>
+                            <td><a href="https://www.tiktok.com/@kai.moooook">@kai.moooook</a></td>
                             <td>#KaimookWarattaya</td>
                         </tr>
                         <tr>
@@ -237,161 +237,6 @@ nav-menu: true
             </div>
         </div>
     </section>
-    <!-- <section class="spotlights">
-        <section>
-            <div class="image">
-                <img src="{{ 'assets/images/swshteaser.png' | relative_url }}" alt="Teasers" data-position="center center">
-            </div>
-            <div class="content">
-                <div class="inner">
-                    <header class="major">
-                        <h3>{{ site.translations[site.lang].swsh_series.teasers.title }}</h3>
-                    </header>
-                    <div class="twitter-embed">
-                        <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">𝐈𝐃𝐎𝐋𝐅𝐀𝐂𝐓𝐎𝐑𝐘 𝑃𝑅𝑂𝐽𝐸𝐶𝑇 𝐿𝐼𝑁𝐸 𝑈𝑃 𝟸𝟶𝟸𝟻<br><br>📍 ISLAND HALL, FASHION ISLAND<br>🗓️ January 12th, 2025<br><br>More details soon<a href="https://twitter.com/hashtag/%E0%B8%AB%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%88%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B8%88%E0%B8%AD%E0%B8%A1?src=hash&amp;ref_src=twsrc%5Etfw">#หวานใจผู้ใหญ่จอม</a><a href="https://twitter.com/hashtag/%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%B2%E0%B8%81%E0%B9%81%E0%B8%82%E0%B9%87%E0%B8%87?src=hash&amp;ref_src=twsrc%5Etfw">#รักปากแข็ง</a><a href="https://twitter.com/hashtag/%E0%B8%AD%E0%B8%AA%E0%B8%87%E0%B9%84%E0%B8%82%E0%B8%A2?src=hash&amp;ref_src=twsrc%5Etfw">#อสงไขย</a><a href="https://twitter.com/hashtag/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2%E0%B8%8B%E0%B8%B2%E0%B8%81%E0%B8%A1%E0%B8%A3%E0%B8%93%E0%B8%B0?src=hash&amp;ref_src=twsrc%5Etfw">#ปริศนาซากมรณะ</a><a href="https://twitter.com/hashtag/idolfactoryTH?src=hash&amp;ref_src=twsrc%5Etfw">#idolfactoryTH</a> <a href="https://t.co/04aEZBUXVI">pic.twitter.com/04aEZBUXVI</a></p>&mdash; IDOLFACTORY (@IDOLFACTORYTH) <a href="https://twitter.com/IDOLFACTORYTH/status/1849790645461975376?ref_src=twsrc%5Etfw">October 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section>
-            <div class="video-embed">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/9p7jy0lF5ZA?si=3pawqzCsFjDv8WeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-            </div>
-            <div class="content">
-                <div class="inner">
-                    <header class="major">
-                        <h3>{{ site.translations[site.lang].swsh_series.pilot.title }}</h3>
-                    </header>
-                    <p>{{ site.translations[site.lang].swsh_series.pilot.description }}</p>
-                </div>
-            </div>
-        </section>
-        <section>
-            <div class="image">
-                <img src="{{ 'assets/images/swsh1.jpeg' | relative_url }}" alt="Episodes" data-position="center center">
-            </div>
-            <div class="content">
-                <div class="inner">
-                    <header class="major">
-                        <h3>{{ site.translations[site.lang].swsh_series.episodes.title }}</h3>
-                    </header>
-                    <p>{{ site.translations[site.lang].swsh_series.episodes.description }}</p>
-                    <div class="table-wrapper">
-                        <table>
-                            <thead>
-                                <tr>
-                                    <th scope="col">{{ site.translations[site.lang].swsh_series.episodes.table.episode }}</th>
-                                    <th scope="col">{{ site.translations[site.lang].swsh_series.episodes.table.teaser }}</th>
-                                    <th scope="col">{{ site.translations[site.lang].swsh_series.episodes.table.premiered }}</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>TBA</td>
-                                    <td></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">EP.1</a></td>
-                                    <td><span class="spoiler">{{ site.translations[site.lang].swsh_series.episodes.spoilers.ep1 }}</span></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">EP.2</a></td>
-                                    <td><span class="spoiler">{{ site.translations[site.lang].swsh_series.episodes.spoilers.ep2 }}</span></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">EP.3</a></td>
-                                    <td><span class="spoiler">{{ site.translations[site.lang].swsh_series.episodes.spoilers.ep3 }}</span></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">EP.4</a></td>
-                                    <td><span class="spoiler">{{ site.translations[site.lang].swsh_series.episodes.spoilers.ep4 }}</span></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">EP.5</a></td>
-                                    <td><span class="spoiler">{{ site.translations[site.lang].swsh_series.episodes.spoilers.ep5 }}</span></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">EP.6</a></td>
-                                    <td><span class="spoiler">{{ site.translations[site.lang].swsh_series.episodes.spoilers.ep6 }}</span></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">EP.7</a></td>
-                                    <td><span class="spoiler">{{ site.translations[site.lang].swsh_series.episodes.spoilers.ep7 }}</span></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">EP.8</a></td>
-                                    <td><span class="spoiler">{{ site.translations[site.lang].swsh_series.episodes.spoilers.ep8 }}</span></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">EP.9</a></td>
-                                    <td><span class="spoiler">{{ site.translations[site.lang].swsh_series.episodes.spoilers.ep9 }}</span></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">EP.10</a></td>
-                                    <td><span class="spoiler">{{ site.translations[site.lang].swsh_series.episodes.spoilers.ep10 }}</span></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="#">EP.11</a></td>
-                                    <td><span class="spoiler">{{ site.translations[site.lang].swsh_series.episodes.spoilers.ep11 }}</span></td>
-                                    <td></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="">EP.12</a></td>
-                                    <td><span class="spoiler">{{ site.translations[site.lang].swsh_series.episodes.spoilers.ep12 }}</span></td>
-                                    <td></td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section>
-            <div class="image">
-                <img src="{{ 'assets/images/swsh16.jpeg' | relative_url }}" alt="OSTs" data-position="25% 25%">
-            </div>
-            <div class="content">
-                <div class="inner">
-                    <header class="major">
-                        <h3>{{ site.translations[site.lang].swsh_series.osts.title }}</h3>
-                    </header>
-                    <p>{{ site.translations[site.lang].swsh_series.osts.description }}</p>
-                    <div class="table-wrapper">
-                        <table>
-                            <thead>
-                                <tr>
-                                    <th scope="col">{{ site.translations[site.lang].swsh_series.osts.table.language }}</th>
-                                    <th scope="col">{{ site.translations[site.lang].swsh_series.osts.table.title }}</th>
-                                    <th scope="col">{{ site.translations[site.lang].swsh_series.osts.table.vocal }}</th>
-                                    <th scope="col">{{ site.translations[site.lang].swsh_series.osts.table.producer }}</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr></tr>
-                                <tr>
-                                    <td>{{ site.translations[site.lang].common.thai }}</td>
-                                    <td><a href="#">TBA</a></td>
-                                    <td></td>
-                                    <td></td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </section> -->
     <div class="carousel-container">
         <button type="button" class="carousel-arrow carousel-prev">&lt;</button>
         <div class="carousel">
